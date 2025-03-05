@@ -1,0 +1,4273 @@
+customer_city,customer_state,total_orders,unique_customers,order_category
+abadia dos dourados,MG,3,3,Low
+abadiania,GO,1,1,Low
+abaete,MG,11,11,Low
+abaetetuba,PA,11,11,Low
+abaiara,CE,2,2,Low
+abaira,BA,2,2,Low
+abare,BA,2,2,Low
+abatia,PR,3,3,Low
+abdon batista,SC,1,1,Low
+abelardo luz,SC,6,6,Low
+abrantes,BA,1,1,Low
+abre campo,MG,5,5,Low
+abreu e lima,PE,11,9,Low
+acaiaca,MG,2,2,Low
+acailandia,MA,7,7,Low
+acajutiba,BA,1,1,Low
+acarau,CE,8,6,Low
+acari,RN,1,1,Low
+acegua,RS,2,2,Low
+acopiara,CE,7,7,Low
+acreuna,GO,7,7,Low
+acu,RN,2,2,Low
+acucena,MG,1,1,Low
+adamantina,SP,35,34,Low
+adhemar de barros,PR,1,1,Low
+adolfo,SP,5,5,Low
+adrianopolis,PR,1,1,Low
+adustina,BA,1,1,Low
+afogados da ingazeira,PE,8,8,Low
+afonso claudio,ES,11,11,Low
+afranio,PE,2,2,Low
+agisse,SP,1,1,Low
+agrestina,PE,1,1,Low
+agrolandia,SC,1,1,Low
+agronomica,SC,2,2,Low
+agua boa,MT,18,16,Low
+agua branca,AL,1,1,Low
+agua branca,PB,2,2,Low
+agua branca,PI,2,2,Low
+agua clara,MS,2,2,Low
+agua comprida,MG,2,2,Low
+agua doce,SC,1,1,Low
+agua doce do norte,ES,4,4,Low
+agua fria de goias,GO,1,1,Low
+agua limpa,GO,1,1,Low
+agua nova,RN,1,1,Low
+agua preta,PE,1,1,Low
+agua santa,RS,2,2,Low
+aguai,SP,9,9,Low
+aguas belas,PE,6,6,Low
+aguas claras,RS,1,1,Low
+aguas da prata,SP,10,10,Low
+aguas de lindoia,SP,22,22,Low
+aguas de santa barbara,SP,3,3,Low
+aguas de sao pedro,SP,2,2,Low
+aguas formosas,MG,5,5,Low
+aguas frias,SC,1,1,Low
+aguas lindas de goias,GO,24,23,Low
+aguas mornas,SC,1,1,Low
+aguas vermelhas,MG,3,3,Low
+agudo,RS,1,1,Low
+agudos,SP,16,16,Low
+aguia branca,ES,1,1,Low
+aimores,MG,10,10,Low
+aiuaba,CE,1,1,Low
+aiuruoca,MG,4,4,Low
+ajapi,SP,1,1,Low
+ajuricaba,RS,2,2,Low
+alagoa,MG,1,1,Low
+alagoa grande,PB,1,1,Low
+alagoa nova,PB,1,1,Low
+alagoinha,PB,2,2,Low
+alagoinhas,BA,40,39,Low
+alambari,SP,3,3,Low
+alcantara,MA,1,1,Low
+alcinopolis,MS,6,4,Low
+alcobaca,BA,4,4,Low
+alegre,ES,17,17,Low
+alegrete,RS,35,34,Low
+alegrete do piaui,PI,1,1,Low
+alegria,RS,1,1,Low
+alem paraiba,MG,28,28,Low
+alexandra,PR,1,1,Low
+alexandria,RN,2,2,Low
+alexandrita,MG,1,1,Low
+alexania,GO,5,5,Low
+alfenas,MG,43,42,Low
+alfredo chaves,ES,7,6,Low
+alfredo marcondes,SP,1,1,Low
+alfredo vasconcelos,MG,3,3,Low
+alfredo wagner,SC,2,2,Low
+alhandra,PB,2,2,Low
+alianca,PE,1,1,Low
+alianca do tocantins,TO,2,2,Low
+almas,TO,1,1,Low
+almenara,MG,14,14,Low
+almino afonso,RN,1,1,Low
+almirante tamandare,PR,35,34,Low
+almirante tamandare do sul,RS,1,1,Low
+alpercata,MG,2,2,Low
+alpestre,RS,1,1,Low
+alpinopolis,MG,7,6,Low
+alta floresta,MT,12,10,Low
+alta floresta d'oeste,RO,3,3,Low
+altamira,PA,25,25,Low
+altamira do parana,PR,2,2,Low
+altaneira,CE,2,2,Low
+alterosa,MG,3,3,Low
+altinho,PE,1,1,Low
+altinopolis,SP,4,4,Low
+alto alegre,PR,2,2,Low
+alto alegre,RS,1,1,Low
+alto alegre do iguacu,PR,2,1,Low
+alto alegre do maranhao,MA,1,1,Low
+alto alegre do pindare,MA,1,1,Low
+alto araguaia,MT,5,5,Low
+alto boa vista,MT,5,3,Low
+alto caparao,MG,2,2,Low
+alto do rodrigues,RN,8,7,Low
+alto garcas,MT,2,2,Low
+alto horizonte,GO,2,2,Low
+alto jequitiba,MG,3,3,Low
+alto paraiso,PR,1,1,Low
+alto paraiso,RO,1,1,Low
+alto paraiso de goias,GO,9,9,Low
+alto parana,PR,2,2,Low
+alto parnaiba,MA,5,5,Low
+alto piquiri,PR,1,1,Low
+alto rio doce,MG,4,4,Low
+alto rio novo,ES,2,2,Low
+alto santo,CE,3,3,Low
+alto sao joao,PR,1,1,Low
+alto taquari,MT,3,3,Low
+altonia,PR,3,3,Low
+altos,PI,5,5,Low
+aluminio,SP,13,13,Low
+alvarenga,MG,2,2,Low
+alvares florence,SP,2,2,Low
+alvares machado,SP,8,8,Low
+alvaro de carvalho,SP,2,2,Low
+alvinopolis,MG,11,11,Low
+alvorada,RS,50,50,Low
+alvorada,TO,6,5,Low
+alvorada d'oeste,RO,1,1,Low
+alvorada do gurgueia,PI,1,1,Low
+alvorada do norte,GO,3,2,Low
+amambai,MS,6,6,Low
+amanari,CE,1,1,Low
+amapa do maranhao,MA,1,1,Low
+amapora,PR,2,2,Low
+amaraji,PE,2,2,Low
+amarante,PI,1,1,Low
+amargosa,BA,1,1,Low
+amelia rodrigues,BA,3,3,Low
+america dourada,BA,1,1,Low
+americana,SP,216,212,Low
+americano do brasil,GO,3,3,Low
+americo brasiliense,SP,17,15,Low
+americo de campos,SP,1,1,Low
+ametista do sul,RS,2,2,Low
+amontada,CE,1,1,Low
+amparo,SP,63,58,Low
+amparo da serra,MG,1,1,Low
+ampere,PR,8,6,Low
+anadia,AL,2,2,Low
+anage,BA,1,1,Low
+analandia,SP,4,4,Low
+ananas,TO,1,1,Low
+ananindeua,PA,85,82,Low
+anapolis,GO,111,108,Low
+anastacio,MS,2,2,Low
+anaurilandia,MS,1,1,Low
+anchieta,ES,14,12,Low
+anchieta,SC,3,3,Low
+andarai,BA,1,1,Low
+andira,PR,11,9,Low
+andorinha,BA,5,5,Low
+andradas,MG,12,11,Low
+andradina,SP,40,38,Low
+andre da rocha,RS,1,1,Low
+andrelandia,MG,3,3,Low
+andrequice,MG,1,1,Low
+angatuba,SP,8,8,Low
+angelica,MS,1,1,Low
+angelina,SC,1,1,Low
+angelo frechiani,ES,1,1,Low
+angical,BA,1,1,Low
+angical do piaui,PI,1,1,Low
+angicos,RN,1,1,Low
+angra dos reis,RJ,83,80,Low
+anguera,BA,1,1,Low
+angulo,PR,3,3,Low
+angustura,MG,1,1,Low
+anhandui,MS,1,1,Low
+anhembi,SP,1,1,Low
+anhumas,SP,1,1,Low
+anicuns,GO,8,8,Low
+anita garibaldi,SC,5,5,Low
+anitapolis,SC,2,2,Low
+anta,RJ,3,3,Low
+anta gorda,RS,4,4,Low
+antonina,PR,10,10,Low
+antonina do norte,CE,1,1,Low
+antonio cardoso,BA,2,2,Low
+antonio carlos,MG,1,1,Low
+antonio carlos,SC,2,2,Low
+antonio goncalves,BA,1,1,Low
+antonio martins,RN,1,1,Low
+antonio pereira,MG,2,2,Low
+antonio prado,RS,5,4,Low
+antonio prado de minas,MG,3,3,Low
+antunes,MG,1,1,Low
+aparecida,SP,25,23,Low
+aparecida d'oeste,SP,1,1,Low
+aparecida de goiania,GO,105,100,Low
+aparecida de monte alto,SP,1,1,Low
+aparecida de sao manuel,SP,2,2,Low
+aparecida do rio negro,TO,1,1,Low
+aparecida do taboado,MS,7,7,Low
+aperibe,RJ,12,12,Low
+apiaca,ES,6,6,Low
+apiai,SP,6,6,Low
+apiuna,SC,7,6,Low
+apodi,RN,3,3,Low
+apora,BA,1,1,Low
+apore,GO,1,1,Low
+apuarema,BA,1,1,Low
+apucarana,PR,51,49,Low
+apuiares,CE,2,2,Low
+aquidaba,SE,1,1,Low
+aquidauana,MS,3,3,Low
+aquiraz,CE,1,1,Low
+aracaju,SE,213,209,Low
+aracariguama,SP,8,7,Low
+aracati,CE,21,21,Low
+aracatu,BA,1,1,Low
+aracatuba,SP,138,133,Low
+arace,ES,4,4,Low
+araci,BA,3,3,Low
+aracitaba,MG,2,2,Low
+aracoiaba,CE,3,3,Low
+aracoiaba,PE,2,2,Low
+aracoiaba da serra,SP,11,11,Low
+aracruz,ES,40,38,Low
+aracuai,MG,9,9,Low
+aragarcas,GO,3,3,Low
+aragoiania,GO,1,1,Low
+araguacu,TO,1,1,Low
+araguaia,ES,1,1,Low
+araguaina,TO,38,37,Low
+araguana,MA,1,1,Low
+araguapaz,GO,2,2,Low
+araguari,MG,54,53,Low
+araguatins,TO,5,4,Low
+aramari,BA,2,1,Low
+arame,MA,1,1,Low
+aramina,SP,1,1,Low
+arandu,SP,3,3,Low
+arantina,MG,1,1,Low
+arapei,SP,2,2,Low
+arapiraca,AL,29,28,Low
+arapoema,TO,1,1,Low
+araponga,MG,2,2,Low
+arapongas,PR,32,31,Low
+arapora,MG,5,5,Low
+arapoti,PR,9,9,Low
+arapua,MG,1,1,Low
+araputanga,MT,4,4,Low
+araquari,SC,11,11,Low
+arara,PB,1,1,Low
+ararangua,SC,18,18,Low
+araraquara,SP,150,145,Low
+araras,SP,93,88,Low
+arari,MA,2,2,Low
+ararica,RS,2,2,Low
+araripe,CE,1,1,Low
+araripina,PE,11,11,Low
+araruama,RJ,74,72,Low
+araruna,PB,1,1,Low
+araruna,PR,4,4,Low
+arataca,BA,1,1,Low
+aratiba,RS,1,1,Low
+aratuba,CE,2,2,Low
+araucaria,PR,54,52,Low
+araujos,MG,5,5,Low
+araxa,MG,75,75,Low
+arceburgo,MG,7,7,Low
+arcos,MG,25,24,Low
+arcoverde,PE,5,5,Low
+areado,MG,6,6,Low
+areal,RJ,7,7,Low
+arealva,SP,3,3,Low
+areia,PB,2,2,Low
+areia branca,RN,3,3,Low
+areia branca dos assis,PR,3,3,Low
+areial,PB,1,1,Low
+areias,SP,3,3,Low
+areiopolis,SP,3,3,Low
+arembepe,BA,2,2,Low
+arenapolis,MT,2,2,Low
+arenopolis,GO,1,1,Low
+aribice,BA,1,1,Low
+arinos,MG,8,8,Low
+aripuana,MT,8,8,Low
+ariquemes,RO,13,12,Low
+ariranha,SP,5,5,Low
+armacao dos buzios,RJ,28,26,Low
+armazem,SC,2,2,Low
+arneiroz,CE,2,2,Low
+aroeiras,PB,1,1,Low
+arraial d ajuda,BA,1,1,Low
+arraial d'ajuda,BA,7,7,Low
+arraial do cabo,RJ,28,24,Low
+arraias,TO,2,2,Low
+arroio do meio,RS,9,8,Low
+arroio do sal,RS,7,5,Low
+arroio do tigre,RS,2,2,Low
+arroio dos ratos,RS,9,8,Low
+arroio grande,RS,3,3,Low
+arroio trinta,SC,1,1,Low
+arrozal,RJ,3,3,Low
+artur nogueira,SP,40,40,Low
+aruana,GO,2,1,Low
+aruja,SP,68,65,Low
+arvoredo,SC,1,1,Low
+arvorezinha,RS,4,3,Low
+ascurra,SC,4,4,Low
+assai,PR,5,5,Low
+assare,CE,1,1,Low
+assis,SP,84,79,Low
+assis chateaubriand,PR,12,12,Low
+assuncao,PB,1,1,Low
+astolfo dutra,MG,11,8,Low
+astorga,PR,7,6,Low
+atalaia,AL,1,1,Low
+atalanta,SC,1,1,Low
+ataleia,MG,2,2,Low
+atibaia,SP,154,149,Low
+atilio vivacqua,ES,1,1,Low
+augustinopolis,TO,1,1,Low
+augusto correa,PA,3,3,Low
+augusto pestana,RS,2,2,Low
+aurea,RS,2,2,Low
+auriflama,SP,10,10,Low
+aurilandia,GO,1,1,Low
+aurora,CE,3,3,Low
+aurora,SC,2,2,Low
+aurora do para,PA,1,1,Low
+avanhandava,SP,7,7,Low
+avare,SP,63,62,Low
+avelar,RJ,4,4,Low
+avelino lopes,PI,2,2,Low
+azurita,MG,3,3,Low
+bacabal,MA,11,11,Low
+bacaxa,RJ,1,1,Low
+bacuri,MA,3,2,Low
+bady bassitt,SP,6,6,Low
+baependi,MG,8,8,Low
+bage,RS,62,61,Low
+baianopolis,BA,2,2,Low
+baixa grande,BA,1,1,Low
+baixa grande do ribeiro,PI,1,1,Low
+baixo guandu,ES,8,8,Low
+balbinos,SP,1,1,Low
+baldim,MG,2,2,Low
+balneario arroio do silva,SC,4,4,Low
+balneario barra do sul,SC,4,4,Low
+balneario camboriu,SC,97,95,Low
+balneario gaivota,SC,3,3,Low
+balneario picarras,SC,8,8,Low
+balneario pinhal,RS,7,6,Low
+balneario rincao,SC,3,3,Low
+balsa nova,PR,1,1,Low
+balsamo,SP,6,5,Low
+balsas,MA,17,16,Low
+bambui,MG,18,18,Low
+banabuiu,CE,1,1,Low
+bananal,SP,5,5,Low
+bananeiras,PB,5,5,Low
+bandeira,MG,3,3,Low
+bandeira do sul,MG,2,2,Low
+bandeirantes,MS,1,1,Low
+bandeirantes,PR,13,13,Low
+bandeirantes d'oeste,SP,1,1,Low
+bandeirantes do tocantins,TO,2,2,Low
+banzae,BA,1,1,Low
+barao,RS,1,1,Low
+barao ataliba nogueira,SP,1,1,Low
+barao de cocais,MG,18,18,Low
+barao de cotegipe,RS,2,1,Low
+barao de juparana,RJ,1,1,Low
+barao do triunfo,RS,1,1,Low
+barauna,RN,1,1,Low
+barbacena,MG,79,73,Low
+barbalha,CE,6,6,Low
+barbosa ferraz,PR,3,2,Low
+barcarena,PA,6,6,Low
+bariri,SP,15,15,Low
+barra,BA,2,2,Low
+barra bonita,SP,28,26,Low
+barra da estiva,BA,7,6,Low
+barra de guabiraba,PE,2,2,Low
+barra de santa rosa,PB,1,1,Low
+barra de santo antonio,AL,2,2,Low
+barra de sao francisco,ES,9,8,Low
+barra de sao joao,RJ,13,13,Low
+barra de sao miguel,AL,2,2,Low
+barra do bugres,MT,4,3,Low
+barra do choca,BA,3,3,Low
+barra do corda,MA,7,7,Low
+barra do garcas,MT,25,24,Low
+barra do jacare,PR,1,1,Low
+barra do mendes,BA,3,3,Low
+barra do pirai,RJ,49,46,Low
+barra do ribeiro,RS,5,5,Low
+barra do rio azul,RS,1,1,Low
+barra do tarrachil,BA,3,1,Low
+barra do turvo,SP,3,3,Low
+barra dos coqueiros,SE,3,3,Low
+barra longa,MG,1,1,Low
+barra mansa,RJ,119,117,Low
+barra velha,SC,15,15,Low
+barracao,PR,1,1,Low
+barracao,RS,2,2,Low
+barras,PI,3,3,Low
+barreira,CE,1,1,Low
+barreiras,BA,51,50,Low
+barreirinhas,MA,4,4,Low
+barreiros,PE,5,5,Low
+barretos,SP,69,68,Low
+barrinha,SP,18,15,Low
+barro,CE,4,4,Low
+barro alto,BA,2,2,Low
+barro alto,GO,1,1,Low
+barro preto,BA,1,1,Low
+barrocas,BA,1,1,Low
+barrolandia,TO,2,2,Low
+barros cassal,RS,3,3,Low
+barroso,MG,11,11,Low
+barueri,SP,419,406,Low
+bastos,SP,17,15,Low
+bataguassu,MS,5,5,Low
+bataipora,MS,1,1,Low
+batalha,AL,3,3,Low
+batatais,SP,27,25,Low
+bataypora,MS,2,2,Low
+baturite,CE,3,3,Low
+bauru,SP,263,257,Low
+bayeux,PB,7,7,Low
+bebedouro,SP,51,50,Low
+beberibe,CE,3,3,Low
+bela cruz,CE,4,4,Low
+bela vista,MS,3,3,Low
+bela vista de goias,GO,7,7,Low
+bela vista de minas,MG,1,1,Low
+bela vista do maranhao,MA,1,1,Low
+bela vista do paraiso,PR,3,3,Low
+belem,AL,2,2,Low
+belem,PA,428,418,Low
+belem,PB,1,1,Low
+belem do sao francisco,PE,2,2,Low
+belford roxo,RJ,104,102,Low
+belmonte,BA,1,1,Low
+belmonte,SC,1,1,Low
+belo campo,BA,3,3,Low
+belo horizonte,MG,2697,2606,Medium
+belo jardim,PE,11,11,Low
+belo oriente,MG,5,5,Low
+belo vale,MG,3,3,Low
+bemposta,RJ,1,1,Low
+benedito leite,MA,1,1,Low
+benedito novo,SC,6,6,Low
+benevides,PA,2,2,Low
+bento de abreu,SP,2,2,Low
+bento goncalves,RS,53,51,Low
+bequimao,MA,1,1,Low
+berilo,MG,1,1,Low
+berizal,MG,1,1,Low
+bernardino de campos,SP,4,4,Low
+bertioga,SP,47,46,Low
+bertolinia,PI,1,1,Low
+bertopolis,MG,1,1,Low
+betim,MG,196,195,Low
+bezerros,PE,10,10,Low
+bias fortes,MG,2,2,Low
+bicas,MG,7,6,Low
+biguacu,SC,22,22,Low
+bilac,SP,7,6,Low
+birigui,SP,78,75,Low
+biritiba-mirim,SP,10,10,Low
+biritinga,BA,1,1,Low
+bituruna,PR,5,5,Low
+blumenau,SC,181,176,Low
+boa esperanca,ES,7,6,Low
+boa esperanca,MG,11,10,Low
+boa esperanca,PR,1,1,Low
+boa esperanca,RJ,1,1,Low
+boa esperanca do iguacu,PR,1,1,Low
+boa esperanca do sul,SP,11,11,Low
+boa ventura,RJ,1,1,Low
+boa viagem,CE,3,3,Low
+boa vista,RR,40,39,Low
+boa vista da aparecida,PR,4,4,Low
+boa vista das missoes,RS,1,1,Low
+boa vista do burica,RS,1,1,Low
+boa vista do cadeado,RS,1,1,Low
+boa vista do gurupi,MA,2,2,Low
+boa vista do sul,RS,1,1,Low
+boca da mata,AL,2,2,Low
+bocaina,PI,1,1,Low
+bocaina,SP,6,5,Low
+bocaiuva,MG,13,12,Low
+bocaiuva do sul,PR,2,2,Low
+bodo,RN,1,1,Low
+bodoco,PE,2,2,Low
+bodoquena,MS,2,1,Low
+bofete,SP,5,5,Low
+boituva,SP,47,45,Low
+bom conselho,PE,7,7,Low
+bom despacho,MG,38,38,Low
+bom jardim,MA,1,1,Low
+bom jardim,PE,1,1,Low
+bom jardim,RJ,14,14,Low
+bom jardim de goias,GO,1,1,Low
+bom jardim de minas,MG,8,8,Low
+bom jesus,GO,8,7,Low
+bom jesus,PI,3,3,Low
+bom jesus,SC,2,2,Low
+bom jesus da lapa,BA,9,9,Low
+bom jesus da penha,MG,2,1,Low
+bom jesus da serra,BA,2,2,Low
+bom jesus das selvas,MA,2,2,Low
+bom jesus do amparo,MG,1,1,Low
+bom jesus do araguaia,MT,1,1,Low
+bom jesus do galho,MG,4,4,Low
+bom jesus do itabapoana,RJ,20,20,Low
+bom jesus do norte,ES,4,4,Low
+bom jesus do querendo,RJ,1,1,Low
+bom jesus do sul,PR,1,1,Low
+bom jesus do tocantins,PA,3,2,Low
+bom jesus dos perdoes,SP,17,16,Low
+bom principio,RS,6,6,Low
+bom repouso,MG,4,4,Low
+bom retiro,SC,1,1,Low
+bom retiro do sul,RS,2,2,Low
+bom sucesso,MG,4,4,Low
+bom sucesso,PR,1,1,Low
+bombinhas,SC,15,15,Low
+bonfim,MG,4,4,Low
+bonfim,RR,1,1,Low
+bonfim paulista,SP,18,18,Low
+bonfinopolis,GO,2,2,Low
+bonfinopolis de minas,MG,2,2,Low
+boninal,BA,2,2,Low
+bonito,BA,2,2,Low
+bonito,MS,8,8,Low
+bonito,PA,2,2,Low
+bonito,PE,5,5,Low
+bonito de minas,MG,1,1,Low
+bonito de santa fe,PB,1,1,Low
+boqueirao do leao,RS,2,2,Low
+boquira,BA,1,1,Low
+bora,SP,1,1,Low
+boraceia,SP,1,1,Low
+borborema,SP,8,8,Low
+borda da mata,MG,6,6,Low
+borrazopolis,PR,2,2,Low
+bossoroca,RS,1,1,Low
+botelho,SP,1,1,Low
+botelhos,MG,8,8,Low
+botucatu,SP,100,98,Low
+botupora,BA,1,1,Low
+botuvera,SC,2,2,Low
+braco do norte,SC,20,20,Low
+braco do rio,ES,2,2,Low
+braganca,PA,9,9,Low
+braganca paulista,SP,144,140,Low
+bras pires,MG,2,2,Low
+brasil novo,PA,3,3,Low
+brasilandia,MS,1,1,Low
+brasilandia de minas,MG,1,1,Low
+brasileia,AC,1,1,Low
+brasilia,DF,2071,2013,Medium
+brasilia de minas,MG,9,8,Low
+brasopolis,MG,1,1,Low
+brauna,SP,5,5,Low
+braunas,MG,1,1,Low
+brazabrantes,GO,2,2,Low
+brazopolis,MG,6,6,Low
+brejetuba,ES,1,1,Low
+brejo,MA,1,1,Low
+brejo bonito,MG,1,1,Low
+brejo da madre de deus,PE,4,4,Low
+brejo do cruz,PB,1,1,Low
+brejo dos santos,PB,1,1,Low
+brejo grande,SE,1,1,Low
+brejo santo,CE,10,10,Low
+brejoes,BA,1,1,Low
+brejolandia,BA,1,1,Low
+breu branco,PA,3,3,Low
+breves,PA,1,1,Low
+britania,GO,1,1,Low
+brodowski,SP,9,9,Low
+brotas,SP,12,12,Low
+brotas de macaubas,BA,1,1,Low
+brumadinho,MG,26,26,Low
+brumado,BA,21,20,Low
+brusque,SC,60,57,Low
+bueno brandao,MG,4,4,Low
+buenopolis,MG,4,4,Low
+buenos aires,PE,2,2,Low
+buerarema,BA,3,3,Low
+bugre,MG,1,1,Low
+buique,PE,1,1,Low
+buri,SP,10,10,Low
+buritama,SP,9,9,Low
+buriti,MA,1,1,Low
+buriti alegre,GO,1,1,Low
+buriti do tocantins,TO,1,1,Low
+buriti dos lopes,PI,2,2,Low
+buriticupu,MA,4,4,Low
+buritirama,BA,2,2,Low
+buritis,MG,13,13,Low
+buritis,RO,2,2,Low
+buritizal,SP,2,2,Low
+buritizeiro,MG,8,8,Low
+butia,RS,6,6,Low
+caarapo,MS,4,4,Low
+cabaceiras do paraguacu,BA,1,1,Low
+cabeceira grande,MG,3,2,Low
+cabeceiras,GO,1,1,Low
+cabedelo,PB,6,6,Low
+cabixi,RO,1,1,Low
+cabo de santo agostinho,PE,21,21,Low
+cabo frio,RJ,113,112,Low
+cabo verde,MG,3,3,Low
+cabralia paulista,SP,4,4,Low
+cabreuva,SP,6,6,Low
+cabrobo,PE,6,6,Low
+cacador,SC,40,40,Low
+cacapava,SP,72,70,Low
+cacapava do sul,RS,5,5,Low
+cacaulandia,RO,1,1,Low
+cacequi,RS,3,3,Low
+caceres,MT,25,25,Low
+cachoeira,BA,4,4,Low
+cachoeira alta,GO,6,6,Low
+cachoeira da prata,MG,2,2,Low
+cachoeira de minas,MG,6,6,Low
+cachoeira de pajeu,MG,3,3,Low
+cachoeira do brumado,MG,1,1,Low
+cachoeira do campo,MG,2,2,Low
+cachoeira do sul,RS,30,30,Low
+cachoeira dourada,GO,2,2,Low
+cachoeira dourada,MG,1,1,Low
+cachoeira paulista,SP,25,25,Low
+cachoeiras de macacu,RJ,20,20,Low
+cachoeirinha,RS,72,68,Low
+cachoeiro de itapemirim,ES,121,117,Low
+cacoal,RO,12,12,Low
+caconde,SP,10,10,Low
+cacu,GO,8,8,Low
+cacule,BA,3,3,Low
+caem,BA,1,1,Low
+caetanopolis,MG,8,8,Low
+caete,MG,27,25,Low
+caetes,PE,1,1,Low
+caetite,BA,10,10,Low
+cafeara,PR,2,2,Low
+cafelandia,PR,11,10,Low
+cafelandia,SP,8,7,Low
+caiana,MG,3,3,Low
+caiaponia,GO,4,4,Low
+caibate,RS,1,1,Low
+caibi,SC,3,3,Low
+caicara do norte,RN,1,1,Low
+caico,RN,10,10,Low
+caieiras,SP,97,94,Low
+cairu,BA,1,1,Low
+caiua,SP,2,2,Low
+cajamar,SP,97,95,Low
+cajapio,MA,1,1,Low
+cajari,MA,1,1,Low
+cajati,SP,16,16,Low
+cajazeiras,PB,11,11,Low
+cajobi,SP,8,8,Low
+cajueiro,AL,1,1,Low
+cajuri,MG,1,1,Low
+cajuru,SP,9,9,Low
+calcado,PE,1,1,Low
+caldas,MG,5,5,Low
+caldas brandao,PB,1,1,Low
+caldas do jorro,BA,1,1,Low
+caldas novas,GO,36,36,Low
+caldeirao grande,BA,2,2,Low
+caldeirao grande do piaui,PI,1,1,Low
+california,PR,2,2,Low
+california da barra,RJ,6,6,Low
+calmon,SC,1,1,Low
+camacan,BA,6,6,Low
+camacari,BA,60,58,Low
+camacho,MG,1,1,Low
+camamu,BA,8,7,Low
+camanducaia,MG,9,9,Low
+camapua,MS,6,6,Low
+camaqua,RS,12,12,Low
+camaragibe,PE,33,31,Low
+cambara,PR,9,9,Low
+cambara do sul,RS,1,1,Low
+cambe,PR,27,27,Low
+cambiasca,RJ,1,1,Low
+cambira,PR,2,2,Low
+camboriu,SC,27,26,Low
+cambuci,RJ,8,8,Low
+cambui,MG,22,20,Low
+cambuquira,MG,5,5,Low
+cameta,PA,4,4,Low
+camocim,CE,8,8,Low
+camocim de sao felix,PE,2,2,Low
+campanario,MG,2,2,Low
+campanha,MG,7,7,Low
+campestre,MG,3,3,Low
+campestre da serra,RS,2,2,Low
+campestre do maranhao,MA,2,2,Low
+campina da lagoa,PR,2,2,Low
+campina das missoes,RS,2,2,Low
+campina do monte alegre,SP,2,2,Low
+campina grande,PB,67,67,Low
+campina grande do sul,PR,9,9,Low
+campina verde,MG,10,10,Low
+campinacu,GO,1,1,Low
+campinapolis,MT,3,2,Low
+campinas,SP,1406,1363,Medium
+campinas do sul,RS,6,6,Low
+campinorte,GO,7,7,Low
+campo alegre,AL,2,1,Low
+campo alegre,SC,2,2,Low
+campo alegre de goias,GO,2,2,Low
+campo alegre de lourdes,BA,1,1,Low
+campo alegre de minas,MG,1,1,Low
+campo alegre do fidalgo,PI,1,1,Low
+campo azul,MG,1,1,Low
+campo belo,MG,21,21,Low
+campo bom,RS,35,35,Low
+campo do brito,SE,1,1,Low
+campo do meio,MG,4,4,Low
+campo do tenente,PR,1,1,Low
+campo ere,SC,7,7,Low
+campo florido,MG,1,1,Low
+campo formoso,BA,10,10,Low
+campo grande,MS,312,308,Low
+campo grande do piaui,PI,1,1,Low
+campo largo,PR,36,36,Low
+campo limpo paulista,SP,47,46,Low
+campo magro,PR,1,1,Low
+campo maior,PI,7,7,Low
+campo mourao,PR,56,54,Low
+campo novo,RS,2,2,Low
+campo novo do parecis,MT,15,15,Low
+campo verde,MT,10,10,Low
+campos altos,MG,5,5,Low
+campos belos,GO,7,7,Low
+campos borges,RS,3,3,Low
+campos de julio,MT,6,6,Low
+campos do jordao,SP,25,23,Low
+campos dos goytacazes,RJ,232,229,Low
+campos gerais,MG,4,4,Low
+campos novos,SC,14,14,Low
+campos sales,CE,4,4,Low
+campos verdes,GO,1,1,Low
+camutanga,PE,3,3,Low
+canaa,MG,1,1,Low
+canaa dos carajas,PA,9,9,Low
+cananeia,SP,8,8,Low
+canapi,AL,1,1,Low
+canapolis,BA,1,1,Low
+canapolis,MG,5,4,Low
+canarana,BA,1,1,Low
+canarana,MT,10,10,Low
+canavieiras,BA,6,6,Low
+candeal,BA,1,1,Low
+candeias,BA,12,11,Low
+candeias,MG,9,8,Low
+candeias do jamari,RO,1,1,Low
+candelaria,RS,4,4,Low
+candido de abreu,PR,4,4,Low
+candido godoi,RS,1,1,Low
+candido mendes,MA,1,1,Low
+candido mota,SP,16,16,Low
+candido rodrigues,SP,4,2,Low
+candido sales,BA,3,3,Low
+candiota,RS,4,4,Low
+candoi,PR,1,1,Low
+canela,RS,17,17,Low
+canelinha,SC,4,4,Low
+cangucu,RS,12,11,Low
+canhotinho,PE,2,2,Low
+caninde,CE,5,5,Low
+caninde de sao francisco,SE,2,2,Low
+canitar,SP,2,2,Low
+canoas,RS,205,197,Low
+canoinhas,SC,27,27,Low
+cansancao,BA,7,5,Low
+cantagalo,MG,2,2,Low
+cantagalo,PR,2,2,Low
+cantagalo,RJ,17,15,Low
+cantanhede,MA,1,1,Low
+canto do buriti,PI,1,1,Low
+canudos,BA,1,1,Low
+capanema,PA,3,3,Low
+capanema,PR,9,8,Low
+capao bonito,SP,28,23,Low
+capao da canoa,RS,38,38,Low
+capao da porteira,RS,2,2,Low
+capao do cipo,RS,3,3,Low
+capao do leao,RS,4,4,Low
+caparao,MG,1,1,Low
+capela,SE,3,2,Low
+capela de santana,RS,2,2,Low
+capela do alto,SP,3,3,Low
+capela do alto alegre,BA,1,1,Low
+capela nova,MG,1,1,Low
+capelinha,MG,19,19,Low
+capetinga,MG,2,2,Low
+capim branco,MG,2,1,Low
+capim grosso,BA,5,5,Low
+capinopolis,MG,11,11,Low
+capinzal,SC,10,10,Low
+capinzal do norte,MA,2,2,Low
+capistrano,CE,1,1,Low
+capitao,RS,1,1,Low
+capitao andrade,MG,1,1,Low
+capitao eneas,MG,1,1,Low
+capitao leonidas marques,PR,5,5,Low
+capitao poco,PA,3,3,Low
+capitolio,MG,5,5,Low
+capivari,SP,32,32,Low
+capivari de baixo,SC,5,5,Low
+capivari do sul,RS,1,1,Low
+capoeiras,PE,1,1,Low
+caputira,MG,2,2,Low
+caracol,MS,1,1,Low
+caraguatatuba,SP,83,82,Low
+carai,MG,6,6,Low
+caraiba,PE,2,2,Low
+caraibas,BA,1,1,Low
+carajas,PA,4,4,Low
+carambei,PR,3,3,Low
+carandai,MG,11,11,Low
+carangola,MG,25,24,Low
+carapebus,RJ,5,5,Low
+carapicuiba,SP,316,309,Low
+caratinga,MG,62,61,Low
+caraubas,RN,3,3,Low
+caravelas,BA,3,3,Low
+carazinho,RS,23,23,Low
+carbonita,MG,4,3,Low
+cardoso,SP,6,6,Low
+cardoso moreira,RJ,6,6,Low
+careacu,MG,2,2,Low
+cariacica,ES,135,132,Low
+caridade,CE,1,1,Low
+carinhanha,BA,2,2,Low
+carire,CE,3,3,Low
+cariri do tocantins,TO,2,2,Low
+caririacu,CE,2,2,Low
+carius,CE,3,3,Low
+carlinda,MT,2,2,Low
+carlopolis,PR,6,6,Low
+carlos barbosa,RS,19,19,Low
+carlos chagas,MG,2,2,Low
+carmesia,MG,1,1,Low
+carmo,RJ,12,12,Low
+carmo da cachoeira,MG,4,4,Low
+carmo da mata,MG,6,6,Low
+carmo de minas,MG,3,3,Low
+carmo do cajuru,MG,10,10,Low
+carmo do paranaiba,MG,16,16,Low
+carmo do rio claro,MG,9,8,Low
+carmo do rio verde,GO,2,2,Low
+carmolandia,TO,1,1,Low
+carmopolis,SE,2,2,Low
+carmopolis de minas,MG,5,5,Low
+carnaiba do sertao,BA,1,1,Low
+carnauba dos dantas,RN,1,1,Low
+carnaubais,RN,2,2,Low
+carnaubal,CE,2,2,Low
+carneirinho,MG,3,3,Low
+carolina,MA,2,2,Low
+carpina,PE,10,10,Low
+carrancas,MG,3,3,Low
+caruaru,PE,63,63,Low
+carutapera,MA,2,2,Low
+carvalhopolis,MG,3,3,Low
+casa branca,SP,13,13,Low
+casa nova,BA,6,5,Low
+casca,RS,7,7,Low
+cascalho rico,MG,1,1,Low
+cascavel,CE,5,5,Low
+cascavel,PR,146,144,Low
+caseiros,RS,1,1,Low
+casimiro de abreu,RJ,20,19,Low
+cassia,MG,6,6,Low
+cassia dos coqueiros,SP,1,1,Low
+cassilandia,MS,5,5,Low
+castanhal,PA,21,21,Low
+castanheira,MT,3,3,Low
+castanheiras,RO,1,1,Low
+castelandia,GO,5,4,Low
+castelo,ES,18,17,Low
+castelo do piaui,PI,2,2,Low
+castilho,SP,10,10,Low
+castro,PR,22,22,Low
+castro alves,BA,2,2,Low
+cataguases,MG,32,31,Low
+catalao,GO,33,30,Low
+catanduva,SP,72,68,Low
+catanduvas,SC,6,6,Low
+catarina,CE,3,3,Low
+catas altas,MG,5,5,Low
+catende,PE,7,7,Low
+catigua,SP,6,6,Low
+catole do rocha,PB,6,6,Low
+catu,BA,10,10,Low
+catu de abrantes,BA,2,2,Low
+catuipe,RS,4,4,Low
+caturama,BA,1,1,Low
+caucaia,CE,35,35,Low
+cavalcante,GO,2,2,Low
+caxambu,MG,16,16,Low
+caxambu do sul,SC,1,1,Low
+caxias,MA,16,16,Low
+caxias do sul,RS,220,210,Low
+caxingo,PI,1,1,Low
+ceara-mirim,RN,2,2,Low
+cedral,MA,3,3,Low
+cedral,SP,6,6,Low
+cedro,CE,1,1,Low
+cedro de sao joao,SE,3,3,Low
+cedro do abaete,MG,1,1,Low
+ceilandia,DF,1,1,Low
+celina,ES,2,2,Low
+celso ramos,SC,2,2,Low
+centenario,TO,1,1,Low
+centenario do sul,PR,4,4,Low
+central,BA,1,1,Low
+central de santa helena,MG,1,1,Low
+centralina,MG,1,1,Low
+centro novo do maranhao,MA,1,1,Low
+cerejeiras,RO,1,1,Low
+ceres,GO,7,7,Low
+cerqueira cesar,SP,18,17,Low
+cerquilho,SP,29,27,Low
+cerrito,RS,1,1,Low
+cerro azul,PR,4,3,Low
+cerro grande,RS,1,1,Low
+cerro grande do sul,RS,2,2,Low
+cerro largo,RS,7,7,Low
+cerro negro,SC,1,1,Low
+cesario lange,SP,13,12,Low
+ceu azul,PR,7,7,Low
+cezarina,GO,1,1,Low
+cha de alegria,PE,1,1,Low
+cha grande,PE,1,1,Low
+chacara,MG,2,2,Low
+chale,MG,2,2,Low
+chapada,RS,4,4,Low
+chapada do norte,MG,2,2,Low
+chapada dos guimaraes,MT,4,4,Low
+chapada gaucha,MG,4,4,Low
+chapadao do ceu,GO,8,7,Low
+chapadao do lageado,SC,1,1,Low
+chapadao do sul,MS,14,14,Low
+chapadinha,MA,3,3,Low
+chapeco,SC,101,97,Low
+charqueada,SP,10,10,Low
+charqueadas,RS,17,16,Low
+charrua,RS,1,1,Low
+chaval,CE,1,1,Low
+chavantes,SP,12,12,Low
+chaveslandia,MG,2,2,Low
+chiapetta,RS,1,1,Low
+chopinzinho,PR,4,4,Low
+chorozinho,CE,1,1,Low
+chorrocho,BA,1,1,Low
+chui,RS,5,4,Low
+cianorte,PR,39,37,Low
+cicero dantas,BA,9,8,Low
+cidade gaucha,PR,5,5,Low
+cidade ocidental,GO,8,8,Low
+cidelandia,MA,1,1,Low
+cidreira,RS,5,5,Low
+cipo,BA,1,1,Low
+cipo-guacu,SP,1,1,Low
+ciriaco,RS,1,1,Low
+claraval,MG,1,1,Low
+claro dos pocoes,MG,1,1,Low
+claudia,MT,4,4,Low
+claudio,MG,20,18,Low
+clementina,SP,4,4,Low
+clevelandia,PR,3,3,Low
+coaraci,BA,4,4,Low
+coari,AM,1,1,Low
+cocais,MG,1,1,Low
+cocal,PI,7,7,Low
+cocal do sul,SC,4,4,Low
+cocalinho,MT,4,4,Low
+cocalzinho de goias,GO,1,1,Low
+cocos,BA,1,1,Low
+codo,MA,7,7,Low
+coelho neto,MA,3,2,Low
+coimbra,MG,1,1,Low
+coite do noia,AL,1,1,Low
+colatina,ES,63,61,Low
+colider,MT,8,8,Low
+colina,SP,9,8,Low
+colinas,MA,3,3,Low
+colinas,RS,1,1,Low
+colinas do tocantins,TO,3,3,Low
+colmeia,TO,2,2,Low
+colniza,MT,3,3,Low
+colombia,SP,5,5,Low
+colombo,PR,60,57,Low
+colonia castrolanda,PR,3,3,Low
+colonia jordaozinho,PR,2,2,Low
+colonia leopoldina,AL,2,2,Low
+colonia vitoria,PR,5,5,Low
+colorado,PR,6,6,Low
+colorado,RS,3,3,Low
+colorado do oeste,RO,3,3,Low
+coluna,MG,3,3,Low
+combinado,TO,1,1,Low
+comendador levy gasparian,RJ,7,7,Low
+comercinho,MG,1,1,Low
+comodoro,MT,7,6,Low
+conceicao,PB,2,2,Low
+conceicao da aparecida,MG,5,5,Low
+conceicao da barra,ES,3,3,Low
+conceicao da feira,BA,2,2,Low
+conceicao da ibitipoca,MG,1,1,Low
+conceicao das alagoas,MG,3,3,Low
+conceicao das pedras,MG,4,4,Low
+conceicao de macabu,RJ,12,12,Low
+conceicao do almeida,BA,1,1,Low
+conceicao do araguaia,PA,7,7,Low
+conceicao do caninde,PI,1,1,Low
+conceicao do castelo,ES,5,5,Low
+conceicao do coite,BA,9,9,Low
+conceicao do formoso,MG,1,1,Low
+conceicao do jacuipe,BA,3,3,Low
+conceicao do mato dentro,MG,12,12,Low
+conceicao do para,MG,3,3,Low
+conceicao do rio verde,MG,5,5,Low
+conceicao do tocantins,TO,3,3,Low
+conceicao dos ouros,MG,4,4,Low
+conchal,SP,19,18,Low
+conchas,SP,8,7,Low
+concordia,SC,47,46,Low
+concordia do para,PA,3,3,Low
+condado,PE,4,4,Low
+conde,BA,2,2,Low
+condeuba,BA,1,1,Low
+condor,RS,4,4,Low
+confins,MG,1,1,Low
+confresa,MT,7,7,Low
+congonhal,MG,4,4,Low
+congonhas,MG,30,30,Low
+congonhinhas,PR,2,2,Low
+conquista,MG,6,5,Low
+conquista d'oeste,MT,1,1,Low
+conrado,RJ,1,1,Low
+conselheiro lafaiete,MG,81,80,Low
+conselheiro mairinck,PR,1,1,Low
+conselheiro pena,MG,15,14,Low
+conservatoria,RJ,4,4,Low
+constantina,RS,1,1,Low
+contagem,MG,415,406,Low
+contenda,PR,1,1,Low
+coqueiro baixo,RS,2,2,Low
+coqueiros do sul,RS,1,1,Low
+coracao de jesus,MG,3,3,Low
+coracao de maria,BA,1,1,Low
+corbelia,PR,3,3,Low
+cordeiro,RJ,24,24,Low
+cordeiropolis,SP,15,15,Low
+cordeiros,BA,1,1,Low
+coreau,CE,1,1,Low
+coremas,PB,3,3,Low
+corguinho,MS,2,1,Low
+coribe,BA,8,6,Low
+corinto,MG,11,10,Low
+cornelio procopio,PR,24,24,Low
+coroaci,MG,2,2,Low
+coroados,SP,2,2,Low
+coroata,MA,9,8,Low
+coromandel,MG,25,22,Low
+coronel domingos soares,PR,1,1,Low
+coronel fabriciano,MG,40,40,Low
+coronel freitas,SC,1,1,Low
+coronel joao pessoa,RN,1,1,Low
+coronel joao sa,BA,3,3,Low
+coronel macedo,SP,2,2,Low
+coronel martins,SC,2,1,Low
+coronel murta,MG,1,1,Low
+coronel pacheco,MG,1,1,Low
+coronel sapucaia,MS,1,1,Low
+coronel vivida,PR,11,11,Low
+corrego danta,MG,1,1,Low
+corrego do ouro,RJ,1,1,Low
+corrego fundo,MG,1,1,Low
+correia pinto,SC,11,8,Low
+corrente,PI,4,4,Low
+correntes,PE,1,1,Low
+correntina,BA,2,2,Low
+cortes,PE,2,2,Low
+corumba,MS,27,27,Low
+corumba de goias,GO,2,2,Low
+corumbaiba,GO,4,4,Low
+corumbatai,SP,2,2,Low
+corumbatai do sul,PR,1,1,Low
+corupa,SC,4,4,Low
+coruripe,AL,3,3,Low
+cosmopolis,SP,50,48,Low
+cosmorama,SP,6,6,Low
+costa marques,RO,2,2,Low
+costa rica,MS,12,11,Low
+cotegipe,BA,1,1,Low
+cotia,SP,241,235,Low
+cotipora,RS,1,1,Low
+cotriguacu,MT,2,2,Low
+couto de magalhaes,TO,2,2,Low
+coxilha,RS,2,2,Low
+coxim,MS,11,11,Low
+crateus,CE,9,9,Low
+crato,CE,18,18,Low
+cravinhos,SP,24,23,Low
+cravolandia,BA,1,1,Low
+criciuma,SC,91,91,Low
+crisolita,MG,2,2,Low
+crisopolis,BA,3,3,Low
+crissiumal,RS,2,2,Low
+cristais,MG,3,3,Low
+cristais paulista,SP,4,4,Low
+cristal,RS,3,3,Low
+cristalandia,TO,3,3,Low
+cristalia,MG,3,3,Low
+cristalina,GO,8,8,Low
+cristiano otoni,MG,2,2,Low
+cristina,MG,7,7,Low
+cristinapolis,SE,1,1,Low
+cristopolis,BA,2,2,Low
+crixas,GO,8,7,Low
+croata,CE,1,1,Low
+crominia,GO,1,1,Low
+crucilandia,MG,1,1,Low
+cruz,CE,7,7,Low
+cruz alta,RS,30,29,Low
+cruz das almas,BA,18,17,Low
+cruz machado,PR,3,3,Low
+cruzalia,SP,3,3,Low
+cruzeiro,SP,56,54,Low
+cruzeiro da fortaleza,MG,2,2,Low
+cruzeiro do iguacu,PR,1,1,Low
+cruzeiro do oeste,PR,7,7,Low
+cruzeiro do sul,AC,3,3,Low
+cruzeiro do sul,RS,3,3,Low
+cruzilia,MG,4,4,Low
+cubatao,SP,79,76,Low
+cubati,PB,2,2,Low
+cuiaba,MT,243,237,Low
+cuite,PB,3,3,Low
+cuite velho,MG,1,1,Low
+cujubim,RO,1,1,Low
+cumari,GO,2,2,Low
+cumaru,PE,2,2,Low
+cunha,SP,14,14,Low
+cunha pora,SC,5,4,Low
+cupira,PE,1,1,Low
+curaca,BA,3,3,Low
+curitiba,PR,1489,1434,Medium
+curitibanos,SC,20,20,Low
+curiuva,PR,4,4,Low
+currais novos,RN,7,7,Low
+curral de cima,PB,1,1,Low
+curralinho,PA,1,1,Low
+curuca,PA,3,2,Low
+cururupu,MA,3,3,Low
+curvelandia,MT,1,1,Low
+curvelo,MG,42,40,Low
+custodia,PE,5,5,Low
+damianopolis,GO,2,2,Low
+dario meira,BA,2,2,Low
+datas,MG,1,1,Low
+david canabarro,RS,2,2,Low
+delfim moreira,MG,1,1,Low
+delfinopolis,MG,3,3,Low
+delmiro gouveia,AL,4,4,Low
+demerval lobao,PI,1,1,Low
+denise,MT,2,2,Low
+deodapolis,MS,2,2,Low
+deputado irapuan pinheiro,CE,2,2,Low
+descalvado,SP,13,13,Low
+descoberto,MG,3,3,Low
+desembargador otoni,MG,1,1,Low
+desterro,PB,1,1,Low
+desterro de entre rios,MG,1,1,Low
+desterro do melo,MG,1,1,Low
+dezesseis de novembro,RS,1,1,Low
+diadema,SP,276,265,Low
+diamante d'oeste,PR,1,1,Low
+diamante do norte,PR,5,5,Low
+diamantina,MG,27,27,Low
+diamantino,MT,7,4,Low
+dianopolis,TO,7,7,Low
+dias d avila,BA,1,1,Low
+dias d'avila,BA,23,22,Low
+diogo de vasconcelos,MG,2,2,Low
+dionisio,MG,2,2,Low
+dionisio cerqueira,SC,3,3,Low
+diorama,GO,2,1,Low
+divinesia,MG,1,1,Low
+divino,MG,13,13,Low
+divino das laranjeiras,MG,1,1,Low
+divino de sao lourenco,ES,1,1,Low
+divinolandia,SP,7,7,Low
+divinolandia de minas,MG,5,5,Low
+divinopolis,MG,132,131,Low
+divinopolis de goias,GO,1,1,Low
+divinopolis do tocantins,TO,1,1,Low
+divisa alegre,MG,2,2,Low
+divisa nova,MG,1,1,Low
+dobrada,SP,2,2,Low
+doce grande,PR,1,1,Low
+dois corregos,SP,11,11,Low
+dois irmaos,RS,17,17,Low
+dois irmaos do buriti,MS,3,3,Low
+dois riachos,AL,1,1,Low
+dois vizinhos,PR,27,25,Low
+dom aquino,MT,3,3,Low
+dom basilio,BA,3,3,Low
+dom cavati,MG,1,1,Low
+dom eliseu,PA,5,5,Low
+dom feliciano,RS,5,5,Low
+dom joaquim,MG,1,1,Low
+dom macedo costa,BA,1,1,Low
+dom pedrito,RS,10,10,Low
+dom pedro,MA,3,3,Low
+dom silverio,MG,4,4,Low
+dom vicoso,MG,2,2,Low
+domiciano ribeiro,GO,2,2,Low
+domingos martins,ES,9,8,Low
+dona emma,SC,1,1,Low
+dona euzebia,MG,2,2,Low
+dona francisca,RS,2,2,Low
+dores de campos,MG,8,8,Low
+dores do indaia,MG,7,6,Low
+dores do rio preto,ES,4,4,Low
+dormentes,PE,2,2,Low
+douradina,PR,1,1,Low
+dourado,CE,1,1,Low
+dourado,SP,8,8,Low
+dourados,MS,63,58,Low
+doutor camargo,PR,1,1,Low
+doutor ulysses,PR,1,1,Low
+doverlandia,GO,2,2,Low
+dracena,SP,27,27,Low
+duartina,SP,10,9,Low
+duas barras,RJ,1,1,Low
+duere,TO,1,1,Low
+dumont,SP,3,3,Low
+duque de caxias,RJ,250,247,Low
+durande,MG,2,2,Low
+echapora,SP,2,2,Low
+ecoporanga,ES,8,8,Low
+edeia,GO,4,4,Low
+eldorado,MS,1,1,Low
+eldorado,SP,5,5,Low
+eldorado do sul,RS,15,13,Low
+elias fausto,SP,5,5,Low
+eliseu martins,PI,3,3,Low
+elisiario,SP,1,1,Low
+elisio medrado,BA,2,2,Low
+eloi mendes,MG,10,10,Low
+embauba,SP,1,1,Low
+embu,SP,11,10,Low
+embu das artes,SP,157,154,Low
+embu-guacu,SP,46,45,Low
+emilianopolis,SP,2,1,Low
+encantado,RS,11,11,Low
+encruzilhada do sul,RS,8,8,Low
+eneas marques,PR,4,4,Low
+engenheiro balduino,SP,1,1,Low
+engenheiro coelho,SP,12,12,Low
+engenheiro navarro,MG,1,1,Low
+engenheiro passos,RJ,2,2,Low
+engenheiro paulo de frontin,RJ,6,6,Low
+entre folhas,MG,1,1,Low
+entre rios,BA,6,6,Low
+entre rios de minas,MG,7,6,Low
+entre rios do oeste,PR,3,3,Low
+entre-ijuis,RS,3,3,Low
+epitaciolandia,AC,1,1,Low
+erebango,RS,1,1,Low
+erechim,RS,56,52,Low
+erere,CE,1,1,Low
+erico cardoso,BA,1,1,Low
+erval grande,RS,2,1,Low
+ervalia,MG,7,7,Low
+escada,PE,10,10,Low
+esmeralda,RS,1,1,Low
+esmeraldas,MG,14,14,Low
+espera feliz,MG,19,18,Low
+esperanca,PB,6,6,Low
+esperantina,PI,4,4,Low
+esperantina,TO,1,1,Low
+esperantinopolis,MA,3,3,Low
+espigao,SP,2,2,Low
+espigao alto do iguacu,PR,2,2,Low
+espigao do oeste,RO,6,6,Low
+espinosa,MG,6,6,Low
+espirito santo do pinhal,SP,18,18,Low
+espirito santo do turvo,SP,2,2,Low
+esplanada,BA,5,5,Low
+espumoso,RS,7,7,Low
+estacao,RS,5,5,Low
+estancia,SE,9,9,Low
+estancia velha,RS,20,19,Low
+esteio,RS,39,39,Low
+estevao de araujo,MG,1,1,Low
+estiva,MG,1,1,Low
+estiva gerbi,SP,7,5,Low
+estreito,MA,3,3,Low
+estrela,RS,15,15,Low
+estrela d oeste,SP,1,1,Low
+estrela d'oeste,SP,1,1,Low
+estrela do indaia,MG,2,2,Low
+estrela do norte,SP,3,3,Low
+estrela do sul,MG,1,1,Low
+estrela velha,RS,1,1,Low
+euclides da cunha,BA,5,5,Low
+euclides da cunha paulista,SP,2,1,Low
+eugenio de castro,RS,1,1,Low
+eugenopolis,MG,5,5,Low
+eunapolis,BA,36,35,Low
+eusebio,CE,13,13,Low
+ewbank da camara,MG,1,1,Low
+extrema,MG,39,36,Low
+extrema,RO,3,2,Low
+extremoz,RN,2,2,Low
+fagundes,PB,1,1,Low
+farol,PR,1,1,Low
+farroupilha,RS,27,27,Low
+fartura,SP,10,10,Low
+fatima,BA,2,2,Low
+fatima,TO,1,1,Low
+fatima do sul,MS,4,4,Low
+faxinal,PR,9,9,Low
+faxinal dos guedes,SC,11,11,Low
+faxinalzinho,RS,1,1,Low
+fazenda nova,GO,4,4,Low
+fazenda rio grande,PR,29,28,Low
+fazenda vilanova,RS,2,2,Low
+feira de santana,BA,181,173,Low
+feira nova,PE,5,4,Low
+felicio dos santos,MG,1,1,Low
+felipe guerra,RN,1,1,Low
+felisburgo,MG,1,1,Low
+felixlandia,MG,1,1,Low
+feliz,RS,14,14,Low
+feliz deserto,AL,2,2,Low
+feliz natal,MT,1,1,Low
+fenix,PR,1,1,Low
+fernando prestes,SP,6,6,Low
+fernandopolis,SP,52,52,Low
+fernao,SP,1,1,Low
+ferraz de vasconcelos,SP,109,105,Low
+ferreiros,PE,1,1,Low
+ferros,MG,2,2,Low
+fervedouro,MG,8,8,Low
+figueira,PR,4,4,Low
+figueiropolis d'oeste,MT,2,2,Low
+filadelfia,BA,1,1,Low
+firminopolis,GO,7,5,Low
+flor da serra do sul,PR,2,2,Low
+flora rica,SP,1,1,Low
+florai,PR,2,2,Low
+florania,RN,1,1,Low
+floreal,SP,2,2,Low
+flores,CE,1,1,Low
+flores,PE,1,1,Low
+flores da cunha,RS,12,12,Low
+flores de goias,GO,1,1,Low
+floresta,PE,6,5,Low
+floresta,PR,5,5,Low
+floresta do araguaia,PA,1,1,Low
+florestal,MG,3,3,Low
+florestopolis,PR,3,3,Low
+floriano,PI,18,17,Low
+florianopolis,SC,556,535,Low
+florida,PR,1,1,Low
+florida paulista,SP,4,4,Low
+florinia,SP,1,1,Low
+fonseca,MG,1,1,Low
+fontoura xavier,RS,1,1,Low
+formiga,MG,32,32,Low
+formigueiro,RS,2,2,Low
+formosa,GO,34,34,Low
+formosa da serra negra,MA,1,1,Low
+formosa do oeste,PR,1,1,Low
+formosa do rio preto,BA,3,3,Low
+formoso,GO,1,1,Low
+formoso,MG,2,2,Low
+formoso do araguaia,TO,4,3,Low
+forquilha,CE,4,4,Low
+forquilhinha,SC,13,12,Low
+fortaleza,CE,618,609,Low
+fortaleza dos valos,RS,1,1,Low
+fortim,CE,1,1,Low
+fortuna,MA,3,3,Low
+foz do iguacu,PR,86,84,Low
+foz do jordao,PR,1,1,Low
+fragosos,SC,1,1,Low
+fraiburgo,SC,13,13,Low
+franca,SP,154,153,Low
+francisco badaro,MG,3,3,Low
+francisco beltrao,PR,50,49,Low
+francisco dantas,RN,1,1,Low
+francisco dumont,MG,2,2,Low
+francisco morato,SP,94,89,Low
+francisco sa,MG,3,3,Low
+francisco santos,PI,1,1,Low
+franco da rocha,SP,108,103,Low
+frecheirinha,CE,2,2,Low
+frederico westphalen,RS,14,14,Low
+frei gaspar,MG,1,1,Low
+frei inocencio,MG,5,5,Low
+frei lagonegro,MG,1,1,Low
+frei martinho,PB,2,2,Low
+frei rogerio,SC,1,1,Low
+fronteira,MG,6,6,Low
+fronteiras,PI,3,3,Low
+fruta de leite,MG,2,2,Low
+frutal,MG,24,24,Low
+frutuoso gomes,RN,1,1,Low
+fundao,ES,4,4,Low
+gabriel monteiro,SP,1,1,Low
+galia,SP,1,1,Low
+galinhos,RN,1,1,Low
+galvao,SC,1,1,Low
+gameleira,PE,4,4,Low
+gameleiras,MG,3,3,Low
+gandu,BA,4,4,Low
+garanhuns,PE,30,24,Low
+garca,SP,27,27,Low
+garibaldi,RS,9,9,Low
+garopaba,SC,22,20,Low
+garrafao do norte,PA,3,3,Low
+garruchos,RS,1,1,Low
+garuva,SC,5,5,Low
+gaspar,SC,29,28,Low
+gastao vidigal,SP,3,3,Low
+gaucha do norte,MT,2,2,Low
+gaurama,RS,3,3,Low
+gaviao peixoto,SP,2,2,Low
+general camara,RS,1,1,Low
+general carneiro,PR,5,5,Low
+general maynard,SE,1,1,Low
+general salgado,SP,6,6,Low
+gentio do ouro,BA,1,1,Low
+getulina,SP,2,2,Low
+getulio vargas,RS,8,8,Low
+gilbues,PI,1,1,Low
+girau do ponciano,AL,1,1,Low
+girua,RS,10,9,Low
+glaura,MG,1,1,Low
+glicerio,RJ,2,2,Low
+glicerio,SP,2,2,Low
+gloria de dourados,MS,1,1,Low
+gloria do goita,PE,2,2,Low
+glorinha,RS,2,2,Low
+godoy moreira,PR,1,1,Low
+goiabeira,MG,2,2,Low
+goiana,MG,3,2,Low
+goiana,PE,9,9,Low
+goianapolis,GO,4,4,Low
+goiandira,GO,1,1,Low
+goianesia,GO,17,17,Low
+goianesia do para,PA,3,3,Low
+goiania,GO,660,641,Low
+goianinha,RN,3,3,Low
+goianira,GO,8,8,Low
+goianorte,TO,2,2,Low
+goias,GO,8,8,Low
+goiatuba,GO,10,10,Low
+goioere,PR,11,11,Low
+goitacazes,RJ,11,11,Low
+goncalves,MG,3,3,Low
+goncalves dias,MA,1,1,Low
+gongogi,BA,1,1,Low
+gouveia,MG,4,4,Low
+governador celso ramos,SC,3,3,Low
+governador dix-sept rosado,RN,1,1,Low
+governador eugenio barros,MA,1,1,Low
+governador lindenberg,ES,2,2,Low
+governador mangabeira,BA,1,1,Low
+governador portela,RJ,4,4,Low
+governador valadares,MG,134,133,Low
+graccho cardoso,SE,1,1,Low
+grajau,MA,5,4,Low
+gramado,RS,29,29,Low
+gramado dos loureiros,RS,1,1,Low
+gramado xavier,RS,1,1,Low
+grandes rios,PR,2,2,Low
+granja,CE,5,5,Low
+grao mogol,MG,3,3,Low
+grao para,SC,3,3,Low
+gravata,PE,10,10,Low
+gravatai,RS,111,107,Low
+gravatal,SC,6,6,Low
+groairas,CE,1,1,Low
+grupiara,MG,1,1,Low
+guabiju,RS,1,1,Low
+guabiruba,SC,5,5,Low
+guacui,ES,16,15,Low
+guadalupe,PI,4,4,Low
+guaiba,RS,31,29,Low
+guaicara,SP,8,8,Low
+guaira,PR,7,7,Low
+guaira,SP,36,34,Low
+guairaca,PR,1,1,Low
+guaiuba,CE,2,1,Low
+guajara-mirim,RO,3,3,Low
+guamare,RN,2,2,Low
+guamiranga,PR,1,1,Low
+guanambi,BA,36,36,Low
+guanhaes,MG,18,18,Low
+guape,MG,1,1,Low
+guapiacu,SP,6,6,Low
+guapiara,SP,3,3,Low
+guapimirim,RJ,21,21,Low
+guapirama,PR,1,1,Low
+guapo,GO,6,6,Low
+guapore,RS,18,18,Low
+guara,DF,2,1,Low
+guara,SP,7,7,Low
+guarabira,PB,10,10,Low
+guaracai,SP,5,4,Low
+guaraci,PR,2,2,Low
+guaraci,SP,2,2,Low
+guaraciaba,MG,2,2,Low
+guaraciaba,SC,1,1,Low
+guaraciaba do norte,CE,4,4,Low
+guarai,TO,4,4,Low
+guaramirim,SC,13,13,Low
+guaranesia,MG,9,9,Low
+guarani,MG,7,6,Low
+guarani das missoes,RS,2,2,Low
+guaraniacu,PR,5,5,Low
+guaranta,SP,5,5,Low
+guaranta do norte,MT,5,5,Low
+guarapari,ES,66,63,Low
+guarapua,SP,1,1,Low
+guarapuava,PR,62,61,Low
+guaraquecaba,PR,1,1,Low
+guarara,MG,2,2,Low
+guararapes,SP,18,17,Low
+guararema,SP,11,11,Low
+guaratinga,BA,2,2,Low
+guaratingueta,SP,96,95,Low
+guaratuba,PR,9,9,Low
+guarda-mor,MG,2,2,Low
+guarei,SP,5,5,Low
+guariba,SP,14,14,Low
+guariroba,SP,2,2,Low
+guaruja,SP,217,207,Low
+guaruja do sul,SC,4,4,Low
+guarulhos,SP,1143,1110,Medium
+guassusse,CE,1,1,Low
+guatapara,SP,1,1,Low
+guaxupe,MG,37,31,Low
+guia lopes da laguna,MS,1,1,Low
+guidoval,MG,2,2,Low
+guimaraes,MA,1,1,Low
+guimarania,MG,4,4,Low
+guinda,MG,1,1,Low
+guiricema,MG,1,1,Low
+gurupi,TO,24,23,Low
+guzolandia,SP,1,1,Low
+heliopolis,BA,1,1,Low
+herculandia,SP,3,3,Low
+herval,RS,1,1,Low
+herval d'oeste,SC,9,9,Low
+herveiras,RS,1,1,Low
+hidreletrica tucurui,PA,3,3,Low
+hidrolandia,CE,7,6,Low
+hidrolandia,GO,1,1,Low
+hidrolina,GO,2,2,Low
+holambra,SP,23,23,Low
+holambra ii,SP,5,5,Low
+horizonte,CE,5,5,Low
+horizontina,RS,7,7,Low
+hortolandia,SP,142,140,Low
+hulha negra,RS,1,1,Low
+humaita,AM,4,4,Low
+humberto de campos,MA,1,1,Low
+humildes,BA,1,1,Low
+iacanga,SP,6,6,Low
+iaciara,GO,3,3,Low
+iacri,SP,2,2,Low
+iacu,BA,4,4,Low
+iapu,MG,4,4,Low
+iaras,SP,1,1,Low
+iati,PE,3,3,Low
+ibaiti,PR,11,9,Low
+ibarama,RS,1,1,Low
+ibate,SP,12,11,Low
+ibateguara,AL,2,2,Low
+ibatiba,ES,9,8,Low
+ibema,PR,1,1,Low
+ibertioga,MG,1,1,Low
+ibia,MG,8,8,Low
+ibiaca,RS,2,2,Low
+ibiai,MG,3,3,Low
+ibiajara,BA,1,1,Low
+ibiam,SC,4,4,Low
+ibiapina,CE,3,3,Low
+ibiara,PB,1,1,Low
+ibiassuce,BA,2,2,Low
+ibicarai,BA,5,5,Low
+ibicare,SC,2,2,Low
+ibicoara,BA,3,3,Low
+ibicuitinga,CE,1,1,Low
+ibimirim,PE,3,3,Low
+ibipeba,BA,1,1,Low
+ibipitanga,BA,2,2,Low
+ibipora,PR,12,12,Low
+ibira,SP,6,6,Low
+ibiracatu,MG,1,1,Low
+ibiraci,MG,3,3,Low
+ibiracu,ES,1,1,Low
+ibiraiaras,RS,2,2,Low
+ibiraja,BA,2,1,Low
+ibirama,SC,13,13,Low
+ibirapua,BA,1,1,Low
+ibirarema,SP,5,5,Low
+ibirataia,BA,2,2,Low
+ibirite,MG,47,45,Low
+ibiruba,RS,20,19,Low
+ibitiara,BA,1,1,Low
+ibitinga,SP,22,22,Low
+ibitioca,RJ,1,1,Low
+ibitira,BA,1,1,Low
+ibitita,BA,1,1,Low
+ibitiuva,SP,1,1,Low
+ibiuna,SP,31,29,Low
+ibotirama,BA,7,7,Low
+icapui,CE,5,5,Low
+icara,SC,21,21,Low
+icarai de minas,MG,2,2,Low
+icaraima,PR,1,1,Low
+icatu,MA,1,1,Low
+icem,SP,9,8,Low
+ichu,BA,2,2,Low
+ico,CE,8,8,Low
+iconha,ES,5,5,Low
+ielmo marinho,RN,2,2,Low
+iepe,SP,5,5,Low
+igaci,AL,2,2,Low
+igapora,BA,1,1,Low
+igaracu do tiete,SP,4,4,Low
+igarapava,SP,7,7,Low
+igarape,MG,9,9,Low
+igarape-acu,PA,1,1,Low
+igarape-miri,PA,1,1,Low
+igarassu,PE,11,11,Low
+igarata,SP,5,5,Low
+igaratinga,MG,1,1,Low
+igrapiuna,BA,1,1,Low
+igreja nova,AL,2,2,Low
+igrejinha,RS,17,17,Low
+iguaba grande,RJ,19,18,Low
+iguai,BA,2,2,Low
+iguape,SP,14,14,Low
+iguaracu,PR,2,1,Low
+iguatama,MG,3,3,Low
+iguatu,CE,14,14,Low
+iguatu,PR,1,1,Low
+ijui,RS,52,50,Low
+ilha comprida,SP,3,3,Low
+ilha de itamaraca,PE,4,4,Low
+ilha dos valadares,PR,1,1,Low
+ilha grande,PI,1,1,Low
+ilha solteira,SP,24,24,Low
+ilhabela,SP,44,43,Low
+ilheus,BA,69,69,Low
+ilhota,SC,4,4,Low
+ilicinea,MG,1,1,Low
+ilopolis,RS,3,3,Low
+imaculada,PB,3,3,Low
+imbau,PR,2,2,Low
+imbe,RS,13,13,Low
+imbe de minas,MG,2,2,Low
+imbituba,SC,31,31,Low
+imbituva,PR,8,7,Low
+imbuia,SC,4,4,Low
+imigrante,RS,3,3,Low
+imperatriz,MA,40,39,Low
+inacio martins,PR,5,5,Low
+inaciolandia,GO,3,3,Low
+inaja,PE,2,2,Low
+inaja,PR,2,2,Low
+inconfidentes,MG,2,2,Low
+indaial,SC,26,26,Low
+indaiatuba,SP,273,262,Low
+independencia,CE,1,1,Low
+indiana,SP,3,3,Low
+indianopolis,MG,1,1,Low
+indianopolis,PR,4,4,Low
+indiapora,SP,3,3,Low
+indiara,GO,4,3,Low
+indiaroba,SE,1,1,Low
+inga,PB,1,1,Low
+ingai,MG,1,1,Low
+inhambupe,BA,7,7,Low
+inhapi,AL,2,2,Low
+inhapim,MG,7,7,Low
+inhauma,MG,2,2,Low
+inhuma,PI,1,1,Low
+inhumas,GO,16,15,Low
+inimutaba,MG,2,2,Low
+inocencia,MS,1,1,Low
+inubia paulista,SP,3,3,Low
+iomere,SC,1,1,Low
+ipaba,MG,8,8,Low
+ipameri,GO,12,12,Low
+ipanema,MG,7,7,Low
+ipaporanga,CE,2,2,Low
+ipatinga,MG,169,166,Low
+ipaumirim,CE,1,1,Low
+ipaussu,SP,7,7,Low
+ipe,RS,2,2,Low
+ipecaeta,BA,1,1,Low
+ipero,SP,18,16,Low
+ipiabas,RJ,4,3,Low
+ipiacu,MG,3,3,Low
+ipiau,BA,7,7,Low
+ipigua,SP,2,2,Low
+ipira,BA,6,6,Low
+ipira,SC,2,2,Low
+ipiranga,PR,3,2,Low
+ipiranga,RS,1,1,Low
+ipiranga de goias,GO,1,1,Low
+ipiranga do norte,MT,1,1,Low
+ipiranga do sul,RS,1,1,Low
+ipixuna do para,PA,2,2,Low
+ipojuca,PE,15,14,Low
+ipora,GO,15,14,Low
+ipora,PR,2,2,Low
+ipora do oeste,SC,6,6,Low
+ipu,CE,4,4,Low
+ipua,SP,4,4,Low
+ipubi,PE,3,3,Low
+ipueira,RN,1,1,Low
+ipueiras,CE,3,3,Low
+ipuiuna,MG,1,1,Low
+ipumirim,SC,5,5,Low
+ipupiara,BA,1,1,Low
+iracema,CE,2,2,Low
+iracemapolis,SP,18,17,Low
+irai,RS,2,2,Low
+irai de minas,MG,2,2,Low
+iramaia,BA,2,2,Low
+irani,SC,4,3,Low
+irape,SP,2,1,Low
+irapua,SP,4,4,Low
+irapuru,SP,6,6,Low
+iraquara,BA,5,5,Low
+irara,BA,2,2,Low
+irati,PR,22,22,Low
+iraucuba,CE,2,2,Low
+irece,BA,13,12,Low
+iretama,PR,1,1,Low
+irineopolis,SC,4,4,Low
+irupi,ES,2,2,Low
+isaias coelho,PI,1,1,Low
+ita,SC,3,3,Low
+itaara,RS,1,1,Low
+itabaiana,SE,15,14,Low
+itabaianinha,SE,2,2,Low
+itabatan,BA,2,2,Low
+itabela,BA,4,4,Low
+itabera,SP,7,7,Low
+itaberaba,BA,9,9,Low
+itaberai,GO,6,6,Low
+itabi,SE,1,1,Low
+itabira,MG,77,77,Low
+itabirinha,MG,1,1,Low
+itabirito,MG,28,28,Low
+itaborai,RJ,56,53,Low
+itabuna,BA,60,58,Low
+itacarambi,MG,3,3,Low
+itacare,BA,7,7,Low
+itacoatiara,AM,1,1,Low
+itagi,BA,2,2,Low
+itagiba,BA,2,2,Low
+itagimirim,BA,1,1,Low
+itaguacu,ES,7,7,Low
+itaguacu,GO,2,2,Low
+itaguacu da bahia,BA,1,1,Low
+itaguai,RJ,46,45,Low
+itaguaje,PR,2,2,Low
+itaguara,MG,2,1,Low
+itaguari,GO,1,1,Low
+itaguaru,GO,2,2,Low
+itai,SP,10,10,Low
+itaicaba,CE,1,1,Low
+itaiopolis,SC,8,8,Low
+itaipava,ES,4,4,Low
+itaipulandia,PR,6,6,Low
+itaitinga,CE,3,3,Low
+itaituba,PA,3,3,Low
+itaja,GO,3,3,Low
+itajai,SC,119,117,Low
+itajobi,SP,10,10,Low
+itaju,SP,3,2,Low
+itaju do colonia,BA,1,1,Low
+itajuba,MG,92,89,Low
+itajuipe,BA,3,3,Low
+italva,RJ,12,11,Low
+itamaraju,BA,11,11,Low
+itamarandiba,MG,8,7,Low
+itamari,BA,3,3,Low
+itambacuri,MG,6,6,Low
+itambaraca,PR,2,2,Low
+itambe,BA,3,3,Low
+itambe,PE,3,3,Low
+itambe,PR,1,1,Low
+itamira,BA,2,1,Low
+itamogi,MG,2,2,Low
+itamonte,MG,10,9,Low
+itanhaem,SP,74,72,Low
+itanhandu,MG,13,13,Low
+itanhanga,MT,1,1,Low
+itanhem,BA,1,1,Low
+itanhomi,MG,4,4,Low
+itaobim,MG,6,6,Low
+itaoca,ES,2,2,Low
+itaoca,SP,1,1,Low
+itaocara,RJ,16,16,Low
+itapaci,GO,3,3,Low
+itapage,CE,1,1,Low
+itapagipe,MG,5,5,Low
+itapaje,CE,6,6,Low
+itaparica,BA,1,1,Low
+itape,BA,1,1,Low
+itapecerica,MG,13,12,Low
+itapecerica da serra,SP,93,92,Low
+itapecuru mirim,MA,4,4,Low
+itapejara d'oeste,PR,6,6,Low
+itapema,SC,44,42,Low
+itapemirim,ES,4,4,Low
+itaperucu,PR,4,4,Low
+itaperuna,RJ,46,44,Low
+itapetim,PE,2,2,Low
+itapetinga,BA,18,17,Low
+itapetininga,SP,77,76,Low
+itapeva,MG,5,4,Low
+itapeva,SP,52,51,Low
+itapevi,SP,170,169,Low
+itapicuru,BA,2,2,Low
+itapipoca,CE,10,10,Low
+itapira,SP,52,50,Low
+itapiranga,SC,11,11,Low
+itapirapua,GO,2,2,Low
+itapirapua paulista,SP,2,2,Low
+itapissuma,PE,3,3,Low
+itapitanga,BA,3,3,Low
+itapiuna,CE,2,1,Low
+itapoa,SC,9,9,Low
+itapolis,SP,28,28,Low
+itapora,MS,3,3,Low
+itaporanga,PB,2,2,Low
+itaporanga,SP,12,11,Low
+itaporanga d'ajuda,SE,1,1,Low
+itapui,SP,7,7,Low
+itapura,SP,6,6,Low
+itapuranga,GO,6,6,Low
+itaquaquecetuba,SP,168,164,Low
+itaqui,RS,9,9,Low
+itaquirai,MS,2,2,Low
+itaquitinga,PE,2,2,Low
+itarana,ES,3,3,Low
+itarantim,BA,3,3,Low
+itarare,SP,28,26,Low
+itarema,CE,1,1,Low
+itariri,SP,6,6,Low
+itatiaia,RJ,18,17,Low
+itatiaiucu,MG,2,2,Low
+itatiba,SP,97,94,Low
+itatiba do sul,RS,1,1,Low
+itatim,BA,3,3,Low
+itatinga,SP,4,4,Low
+itau,RN,2,2,Low
+itau de minas,MG,5,5,Low
+itauba,MT,5,5,Low
+itaueira,PI,2,1,Low
+itauna,MG,56,53,Low
+itinga,MG,3,3,Low
+itiquira,MT,1,1,Low
+itirapina,SP,2,2,Low
+itirucu,BA,3,3,Low
+itiuba,BA,4,4,Low
+itobi,SP,7,6,Low
+itororo,BA,2,2,Low
+itu,SP,129,126,Low
+ituacu,BA,3,3,Low
+itubera,BA,3,3,Low
+itueta,MG,2,2,Low
+ituiutaba,MG,53,44,Low
+itumbiara,GO,35,35,Low
+itupeva,SP,42,42,Low
+itupiranga,PA,1,1,Low
+ituporanga,SC,15,14,Low
+iturama,MG,14,14,Low
+itutinga,MG,1,1,Low
+ituverava,SP,28,28,Low
+iuna,ES,2,2,Low
+ivai,PR,2,2,Low
+ivaipora,PR,7,7,Low
+ivate,PR,3,3,Low
+ivinhema,MS,3,3,Low
+ivora,RS,1,1,Low
+ivoti,RS,13,13,Low
+jaboatao dos guararapes,PE,131,130,Low
+jabora,SC,2,2,Low
+jaborandi,SP,3,3,Low
+jaboti,PR,2,2,Low
+jaboticabal,SP,50,49,Low
+jaboticatubas,MG,1,1,Low
+jacaraci,BA,4,3,Low
+jacare,SP,8,8,Low
+jacareacanga,PA,1,1,Low
+jacarei,SP,189,185,Low
+jacarezinho,PR,16,15,Low
+jaci,SP,2,2,Low
+jaciara,MT,3,3,Low
+jacigua,ES,2,2,Low
+jacinto,MG,2,2,Low
+jacinto machado,SC,4,4,Low
+jacobina,BA,23,22,Low
+jacui,MG,4,4,Low
+jacuipe,BA,1,1,Low
+jacuizinho,RS,1,1,Low
+jacunda,PA,6,6,Low
+jacupiranga,SP,5,5,Low
+jacutinga,MG,18,16,Low
+jacutinga,RS,1,1,Low
+jaguaquara,BA,2,2,Low
+jaguaracu,MG,1,1,Low
+jaguarao,RS,8,8,Low
+jaguare,ES,13,13,Low
+jaguarembe,RJ,1,1,Low
+jaguari,RS,3,3,Low
+jaguariaiva,PR,17,17,Low
+jaguaribara,CE,1,1,Low
+jaguaribe,CE,5,5,Low
+jaguariuna,SP,60,60,Low
+jaguaruana,CE,4,4,Low
+jaguaruna,SC,2,2,Low
+jaiba,MG,6,5,Low
+jales,SP,28,26,Low
+jamaica,SP,1,1,Low
+jamapara,RJ,1,1,Low
+jambeiro,SP,4,4,Low
+jampruca,MG,1,1,Low
+janauba,MG,16,15,Low
+jandaia,GO,1,1,Low
+jandaia do sul,PR,8,8,Low
+jandaira,BA,1,1,Low
+jandaira,RN,1,1,Low
+jandira,SP,84,78,Low
+janduis,RN,1,1,Low
+janiopolis,PR,3,3,Low
+januaria,MG,22,21,Low
+japaraiba,MG,1,1,Low
+japaratuba,SE,1,1,Low
+japeri,RJ,34,34,Low
+japi,RN,1,1,Low
+japira,PR,3,3,Low
+japoata,SE,1,1,Low
+japuiba,RJ,5,4,Low
+japura,PR,5,5,Low
+jaqueira,PE,3,3,Low
+jaquirana,RS,1,1,Low
+jaragua,GO,7,7,Low
+jaragua do sul,SC,88,84,Low
+jaraguari,MS,2,2,Low
+jardim,CE,2,2,Low
+jardim,MS,3,3,Low
+jardim abc de goias,GO,1,1,Low
+jardim alegre,PR,2,2,Low
+jardim de piranhas,RN,1,1,Low
+jardim do serido,RN,3,3,Low
+jardim olinda,PR,1,1,Low
+jardinopolis,SP,13,13,Low
+jari,RS,4,2,Low
+jarinu,SP,18,17,Low
+jaru,RO,6,6,Low
+jatai,GO,54,54,Low
+jatauba,PE,2,2,Low
+jatoba,MA,1,1,Low
+jatoba,PE,3,2,Low
+jau,SP,73,71,Low
+jaua,BA,1,1,Low
+jaupaci,GO,1,1,Low
+jauru,MT,5,5,Low
+jeceaba,MG,6,5,Low
+jenipapo de minas,MG,1,1,Low
+jequeri,MG,1,1,Low
+jequia da praia,AL,2,2,Low
+jequie,BA,34,34,Low
+jequitai,MG,2,2,Low
+jequitiba,MG,2,2,Low
+jequitinhonha,MG,11,9,Low
+jeremoabo,BA,6,6,Low
+jerico,PB,1,1,Low
+jeriquara,SP,1,1,Low
+jeronimo monteiro,ES,2,2,Low
+jesuania,MG,5,5,Low
+jesuitas,PR,4,4,Low
+jesupolis,GO,2,2,Low
+ji-parana,RO,17,16,Low
+jijoca de jericoacoara,CE,4,4,Low
+jiquirica,BA,1,1,Low
+joacaba,SC,26,26,Low
+joaima,MG,1,1,Low
+joanopolis,SP,6,4,Low
+joao alfredo,PE,3,3,Low
+joao camara,RN,2,2,Low
+joao dourado,BA,1,1,Low
+joao lisboa,MA,5,4,Low
+joao monlevade,MG,50,46,Low
+joao neiva,ES,8,8,Low
+joao pessoa,PB,245,234,Low
+joao pinheiro,MG,16,16,Low
+joao ramalho,SP,3,3,Low
+joaquim nabuco,PE,4,4,Low
+joaquim pires,PI,1,1,Low
+joaquim tavora,PR,3,3,Low
+joinville,SC,257,254,Low
+jordania,MG,5,5,Low
+jose boiteux,SC,1,1,Low
+jose bonifacio,SP,12,12,Low
+jose da penha,RN,1,1,Low
+jose de freitas,PI,3,3,Low
+joselandia,MA,1,1,Low
+joviania,GO,5,4,Low
+juara,MT,5,5,Low
+juatuba,MG,4,4,Low
+juazeiro,BA,42,42,Low
+juazeiro do norte,CE,31,31,Low
+jucas,CE,1,1,Low
+jucurucu,BA,2,2,Low
+jucurutu,RN,4,4,Low
+juina,MT,17,17,Low
+juiz de fora,MG,423,412,Low
+julio de castilhos,RS,10,10,Low
+julio mesquita,SP,2,2,Low
+jumirim,SP,3,2,Low
+junco do serido,PB,2,2,Low
+jundiai,SP,549,532,Low
+jundiai do sul,PR,3,3,Low
+junqueiro,AL,2,2,Low
+junqueiropolis,SP,15,14,Low
+jupi,PE,2,2,Low
+juquia,SP,9,9,Low
+juquitiba,SP,21,20,Low
+juranda,PR,2,2,Low
+jurema,PE,1,1,Low
+juripiranga,PB,1,1,Low
+juru,PB,1,1,Low
+juruaia,MG,6,5,Low
+juruena,MT,3,3,Low
+juruti,PA,1,1,Low
+juscimeira,MT,2,2,Low
+jussara,GO,3,3,Low
+jussara,PR,1,1,Low
+jussari,BA,2,2,Low
+jussiape,BA,1,1,Low
+juti,MS,4,4,Low
+juvenilia,MG,2,2,Low
+kalore,PR,2,2,Low
+ladainha,MG,2,2,Low
+ladario,MS,4,4,Low
+lagarto,SE,11,11,Low
+lages,CE,1,1,Low
+lages,SC,83,80,Low
+lago da pedra,MA,5,5,Low
+lago verde,MA,1,1,Low
+lagoa,PB,1,1,Low
+lagoa d'anta,RN,1,1,Low
+lagoa da canoa,AL,1,1,Low
+lagoa da confusao,TO,5,5,Low
+lagoa da prata,MG,10,9,Low
+lagoa de sao francisco,PI,1,1,Low
+lagoa de velhos,RN,1,1,Low
+lagoa do carro,PE,2,2,Low
+lagoa do mato,CE,1,1,Low
+lagoa do ouro,PE,2,2,Low
+lagoa do piaui,PI,1,1,Low
+lagoa dos gatos,PE,3,3,Low
+lagoa dos patos,MG,1,1,Low
+lagoa dos tres cantos,RS,1,1,Low
+lagoa dourada,MG,5,5,Low
+lagoa formosa,MG,7,7,Low
+lagoa grande,MG,4,4,Low
+lagoa grande,PE,4,3,Low
+lagoa nova,RN,2,2,Low
+lagoa real,BA,1,1,Low
+lagoa salgada,RN,1,1,Low
+lagoa santa,MG,58,55,Low
+lagoa vermelha,RS,14,13,Low
+lagoao,RS,1,1,Low
+lagoinha,SP,3,3,Low
+lagoinha do piaui,PI,1,1,Low
+laguna,SC,14,13,Low
+laje do muriae,RJ,1,1,Low
+lajeado,RS,50,47,Low
+lajeado,TO,1,1,Low
+lajeado grande,SC,1,1,Low
+lajedo,PE,6,6,Low
+lajinha,MG,3,3,Low
+lamarao,BA,1,1,Low
+lambari,MG,8,8,Low
+lamim,MG,1,1,Low
+lapa,PR,14,14,Low
+laranja da terra,ES,1,1,Low
+laranjal,MG,1,1,Low
+laranjal,PR,1,1,Low
+laranjal do jari,AP,2,2,Low
+laranjal paulista,SP,17,17,Low
+laranjeiras do sul,PR,19,18,Low
+laurentino,SC,5,5,Low
+lauro de freitas,BA,72,70,Low
+lauro muller,SC,8,8,Low
+lavinia,SP,4,4,Low
+lavras,MG,80,78,Low
+lavras da mangabeira,CE,2,2,Low
+lavras do sul,RS,3,3,Low
+lavrinhas,SP,1,1,Low
+leandro ferreira,MG,2,2,Low
+leme,SP,50,48,Low
+lencois,BA,1,1,Low
+lencois paulista,SP,43,43,Low
+leoberto leal,SC,1,1,Low
+leopoldina,MG,17,17,Low
+leopoldo de bulhoes,GO,1,1,Low
+leopolis,PR,1,1,Low
+liberato salzano,RS,1,1,Low
+liberdade,MG,3,3,Low
+lima duarte,MG,6,5,Low
+limeira,SP,186,177,Low
+limeira do oeste,MG,2,2,Low
+limoeiro,PE,7,7,Low
+limoeiro do norte,CE,11,10,Low
+lindoeste,PR,2,2,Low
+lindoia,SP,9,9,Low
+lindoia do sul,SC,1,1,Low
+lindolfo collor,RS,1,1,Low
+linhares,ES,64,61,Low
+lins,SP,54,53,Low
+livramento de nossa senhora,BA,5,5,Low
+loanda,PR,13,13,Low
+lobato,PR,3,3,Low
+londrina,PR,298,290,Low
+lontras,SC,3,3,Low
+lorena,SP,82,77,Low
+loreto,MA,1,1,Low
+lourdes,SP,2,2,Low
+louveira,SP,44,42,Low
+lucas do rio verde,MT,23,23,Low
+lucelia,SP,12,12,Low
+lucena,PB,1,1,Low
+lucianopolis,SP,2,2,Low
+luis antonio,SP,7,7,Low
+luis correia,PI,1,1,Low
+luis eduardo magalhaes,BA,36,36,Low
+luisburgo,MG,2,2,Low
+luiz alves,SC,2,2,Low
+luiziana,PR,2,2,Low
+luiziania,SP,3,3,Low
+luizlandia do oeste,MG,2,2,Low
+luminarias,MG,3,3,Low
+lunardelli,PR,2,2,Low
+lupercio,SP,3,3,Low
+lupionopolis,PR,2,2,Low
+lutecia,SP,1,1,Low
+luz,MG,2,2,Low
+luziania,GO,33,30,Low
+luziapolis,AL,1,1,Low
+luzilandia,PI,3,3,Low
+macae,RJ,227,221,Low
+macaiba,RN,5,5,Low
+macambara,RS,2,2,Low
+macambira,SE,1,1,Low
+macapa,AP,53,52,Low
+macaparana,PE,2,2,Low
+macatuba,SP,12,12,Low
+macau,RN,5,5,Low
+macaubal,SP,1,1,Low
+macaubas,BA,8,8,Low
+macedonia,SP,4,4,Low
+maceio,AL,236,233,Low
+machacalis,MG,2,2,Low
+machadinho,RS,1,1,Low
+machadinho d'oeste,RO,3,3,Low
+machado,MG,21,21,Low
+machados,PE,1,1,Low
+macieira,SC,1,1,Low
+macuco,RJ,1,1,Low
+macuco de minas,MG,1,1,Low
+madalena,CE,1,1,Low
+madre de deus,BA,7,7,Low
+madre de deus de minas,MG,3,3,Low
+mae d'agua,PB,1,1,Low
+mae do rio,PA,2,2,Low
+mafra,SC,25,25,Low
+magalhaes de almeida,MA,1,1,Low
+magda,SP,2,2,Low
+mage,RJ,106,101,Low
+maioba,MA,2,2,Low
+maiquinique,BA,1,1,Low
+mairi,BA,2,2,Low
+mairinque,SP,24,22,Low
+mairipora,SP,75,74,Low
+major porto,MG,1,1,Low
+major vieira,SC,3,3,Low
+malacacheta,MG,7,7,Low
+malhador,SE,1,1,Low
+mallet,PR,6,6,Low
+mamanguape,PB,6,6,Low
+mambai,GO,2,2,Low
+mambore,PR,8,8,Low
+mamonas,MG,1,1,Low
+mampituba,RS,1,1,Low
+manaira,PB,1,1,Low
+manaus,AM,137,132,Low
+mandaguacu,PR,4,4,Low
+mandaguari,PR,18,17,Low
+mandirituba,PR,1,1,Low
+manduri,SP,3,3,Low
+manfrinopolis,PR,1,1,Low
+manga,MG,3,3,Low
+mangaratiba,RJ,12,12,Low
+mangueirinha,PR,8,8,Low
+manhuacu,MG,64,64,Low
+manhumirim,MG,16,16,Low
+manoel ribas,PR,4,4,Low
+manoel urbano,AC,1,1,Low
+manoel viana,RS,3,3,Low
+mansidao,BA,1,1,Low
+mantena,MG,11,11,Low
+mantenopolis,ES,4,4,Low
+maquine,RS,1,1,Low
+mar de espanha,MG,9,9,Low
+mar vermelho,AL,2,1,Low
+mara rosa,GO,2,2,Low
+maraba,PA,22,22,Low
+maracacume,MA,4,4,Low
+maracai,SP,8,8,Low
+maracaju,MS,13,13,Low
+maracana,SC,2,2,Low
+maracanau,CE,31,29,Low
+maracas,BA,5,4,Low
+maragogi,AL,5,5,Low
+maragogipe,BA,2,2,Low
+maranguape,CE,3,3,Low
+maranhaozinho,MA,1,1,Low
+marataizes,ES,16,16,Low
+marau,RS,22,20,Low
+maravilha,AL,2,2,Low
+maravilha,SC,9,9,Low
+maravilhas,MG,4,4,Low
+marcelino vieira,RN,1,1,Low
+marco,CE,3,3,Low
+marcos parente,PI,1,1,Low
+marechal candido rondon,PR,30,28,Low
+marechal deodoro,AL,1,1,Low
+marechal floriano,ES,5,5,Low
+mari,PB,3,3,Low
+maria da fe,MG,3,3,Low
+marialva,PR,16,16,Low
+mariana,MG,33,32,Low
+mariano moro,RS,1,1,Low
+mariapolis,SP,2,2,Low
+maribondo,AL,1,1,Low
+marica,RJ,133,130,Low
+mariental,PR,1,1,Low
+marilac,MG,1,1,Low
+marilandia,ES,8,8,Low
+marilandia do sul,PR,1,1,Low
+marilena,PR,1,1,Low
+marilia,SP,194,193,Low
+mariluz,PR,2,2,Low
+maringa,PR,260,251,Low
+marinopolis,SP,2,2,Low
+mario campos,MG,3,3,Low
+mariopolis,PR,1,1,Low
+maripa,PR,3,3,Low
+maristela,SP,4,4,Low
+marituba,PA,14,13,Low
+marmeleiro,PR,7,7,Low
+marques de souza,RS,1,1,Low
+martinesia,MG,1,1,Low
+martinho campos,MG,2,2,Low
+martinopolis,SP,8,8,Low
+martins,RN,2,2,Low
+martins soares,MG,6,5,Low
+mascote,BA,2,2,Low
+massape,CE,2,2,Low
+massaranduba,SC,3,3,Low
+mata,RS,1,1,Low
+mata de sao joao,BA,11,10,Low
+mata grande,AL,2,2,Low
+mata roma,MA,2,2,Low
+mata verde,MG,6,6,Low
+matao,SP,51,51,Low
+matelandia,PR,2,2,Low
+materlandia,MG,2,2,Low
+mateus leme,MG,8,8,Low
+matias barbosa,MG,13,12,Low
+matias olimpio,PI,1,1,Low
+matinhos,PR,27,25,Low
+matipo,MG,4,3,Low
+mato leitao,RS,2,2,Low
+mato rico,PR,1,1,Low
+mato verde,MG,3,2,Low
+matoes,MA,1,1,Low
+matoes do norte,MA,2,2,Low
+matozinhos,MG,12,12,Low
+matrincha,GO,2,2,Low
+matriz de camaragibe,AL,1,1,Low
+matupa,MT,7,5,Low
+matutina,MG,2,2,Low
+maua,SP,317,308,Low
+maua da serra,PR,2,2,Low
+maurilandia,GO,4,4,Low
+mauriti,CE,1,1,Low
+maximiliano de almeida,RS,3,3,Low
+medeiros,MG,2,2,Low
+medeiros neto,BA,7,6,Low
+medianeira,PR,21,21,Low
+medicilandia,PA,1,1,Low
+medina,MG,6,6,Low
+meleiro,SC,3,3,Low
+mendes,RJ,12,12,Low
+mendes pimentel,MG,5,5,Low
+mendonca,MG,1,1,Low
+mendonca,SP,4,4,Low
+mercedes,PR,2,2,Low
+merces,MG,4,4,Low
+meridiano,SP,1,1,Low
+meruoca,CE,2,2,Low
+mesquita,MG,1,1,Low
+mesquita,RJ,75,73,Low
+messias targino,RN,1,1,Low
+miguel calmon,BA,5,5,Low
+miguel pereira,RJ,28,28,Low
+miguelopolis,SP,14,13,Low
+milagres,BA,2,2,Low
+milagres,CE,2,2,Low
+milha,CE,2,2,Low
+mimoso de goias,GO,1,1,Low
+mimoso do sul,ES,9,9,Low
+minacu,GO,11,10,Low
+minas do leao,RS,1,1,Low
+minas novas,MG,4,4,Low
+minduri,MG,1,1,Low
+mineiros,GO,25,24,Low
+mineiros do tiete,SP,3,3,Low
+ministro andreazza,RO,1,1,Low
+mira estrela,SP,1,1,Low
+miracatu,SP,5,5,Low
+miracema,RJ,17,17,Low
+miradouro,MG,1,1,Low
+miraguai,RS,1,1,Low
+mirai,MG,8,8,Low
+miraima,CE,2,2,Low
+miranda,MS,4,4,Low
+miranda do norte,MA,1,1,Low
+mirandiba,PE,3,3,Low
+mirandopolis,SP,13,12,Low
+miranorte,TO,2,2,Low
+mirante da serra,RO,1,1,Low
+mirante do paranapanema,SP,3,2,Low
+mirassol,SP,29,29,Low
+mirassol d'oeste,MT,14,14,Low
+miravania,MG,1,1,Low
+mirinzal,MA,3,3,Low
+missal,PR,7,7,Low
+missao velha,CE,1,1,Low
+missi,CE,1,1,Low
+mocajuba,PA,1,1,Low
+mococa,SP,33,31,Low
+moeda,MG,1,1,Low
+moema,MG,1,1,Low
+mogi das cruzes,SP,374,362,Low
+mogi mirim,SP,75,70,Low
+mogi-guacu,SP,89,85,Low
+mogi-mirim,SP,2,2,Low
+moju,PA,4,4,Low
+mojui dos campos,PA,2,2,Low
+mombaca,CE,1,1,Low
+mombuca,SP,3,3,Low
+moncao,MA,1,1,Low
+moncoes,SP,2,2,Low
+mondai,SC,2,2,Low
+mongagua,SP,41,40,Low
+monnerat,RJ,2,2,Low
+monsenhor paulo,MG,1,1,Low
+monsenhor tabosa,CE,3,3,Low
+montadas,PB,1,1,Low
+montalvania,MG,3,3,Low
+montanha,ES,10,7,Low
+montanhas,RN,1,1,Low
+montauri,RS,2,2,Low
+monte alegre,PA,1,1,Low
+monte alegre,RN,1,1,Low
+monte alegre de minas,MG,4,4,Low
+monte alegre de sergipe,SE,1,1,Low
+monte alegre do sul,SP,6,6,Low
+monte alto,SP,32,30,Low
+monte alverne,RS,1,1,Low
+monte aprazivel,SP,10,9,Low
+monte azul,MG,5,5,Low
+monte azul paulista,SP,19,19,Low
+monte belo,MG,5,5,Low
+monte belo do sul,RS,1,1,Low
+monte bonito,RS,1,1,Low
+monte carlo,SC,3,2,Low
+monte carmelo,MG,23,22,Low
+monte castelo,SC,1,1,Low
+monte castelo,SP,1,1,Low
+monte formoso,MG,2,2,Low
+monte gordo,BA,1,1,Low
+monte mor,SP,38,36,Low
+monte santo,BA,1,1,Low
+monte santo de minas,MG,9,9,Low
+monte siao,MG,20,19,Low
+monte verde,MG,3,3,Low
+monteiropolis,AL,1,1,Low
+montenegro,RS,32,31,Low
+montes claros,MG,207,202,Low
+montezuma,MG,2,2,Low
+montividiu do norte,GO,1,1,Low
+morada nova,CE,9,9,Low
+morada nova,PA,1,1,Low
+morada nova de minas,MG,3,3,Low
+moreilandia,PE,2,2,Low
+moreira sales,PR,3,3,Low
+moreno,PE,5,5,Low
+morpara,BA,2,2,Low
+morretes,PR,3,3,Low
+morrinhos,CE,4,4,Low
+morrinhos,GO,14,12,Low
+morro agudo,SP,9,9,Low
+morro agudo de goias,GO,1,1,Low
+morro da fumaca,SC,7,6,Low
+morro da garca,MG,1,1,Low
+morro de sao paulo,BA,1,1,Low
+morro do chapeu,BA,7,7,Low
+morro do ferro,MG,1,1,Low
+morro do pilar,MG,1,1,Low
+morro grande,SC,1,1,Low
+morro redondo,RS,1,1,Low
+morro reuter,RS,3,3,Low
+morro vermelho,MG,1,1,Low
+morungaba,SP,7,7,Low
+mossamedes,GO,1,1,Low
+mossoro,RN,35,34,Low
+mostardas,RS,11,10,Low
+motuca,SP,2,2,Low
+mozarlandia,GO,7,6,Low
+mucambo,CE,1,1,Low
+mucuge,BA,1,1,Low
+mucuri,BA,7,7,Low
+mucurici,ES,1,1,Low
+mundo novo,BA,1,1,Low
+mundo novo,GO,2,2,Low
+mundo novo,MS,3,3,Low
+munhoz,MG,4,4,Low
+munhoz de melo,PR,4,4,Low
+muniz freire,ES,2,2,Low
+muquem do sao francisco,BA,2,2,Low
+muqui,ES,4,4,Low
+muriae,MG,63,63,Low
+murici,AL,1,1,Low
+muritiba,BA,1,1,Low
+murucupi,PA,1,1,Low
+murutinga do sul,SP,2,2,Low
+mussurepe,RJ,1,1,Low
+mutuipe,BA,4,4,Low
+mutum,MG,8,8,Low
+mutum parana,RO,1,1,Low
+mutunopolis,GO,1,1,Low
+muzambinho,MG,9,8,Low
+nacip raydan,MG,1,1,Low
+nantes,SP,1,1,Low
+nanuque,MG,25,24,Low
+nao-me-toque,RS,7,6,Low
+narandiba,SP,2,2,Low
+natal,RN,203,199,Low
+natercia,MG,1,1,Low
+natividade,RJ,15,13,Low
+natividade,TO,1,1,Low
+natividade da serra,SP,1,1,Low
+navegantes,SC,31,29,Low
+navirai,MS,8,8,Low
+nazare,BA,3,3,Low
+nazare da mata,PE,1,1,Low
+nazare paulista,SP,7,6,Low
+nazareno,MG,2,2,Low
+nazario,GO,2,2,Low
+neopolis,SE,1,1,Low
+nepomuceno,MG,9,9,Low
+neropolis,GO,7,7,Low
+neves paulista,SP,3,3,Low
+nhandeara,SP,7,7,Low
+nilopolis,RJ,103,101,Low
+nipoa,SP,2,2,Low
+niquelandia,GO,13,12,Low
+niteroi,RJ,825,788,Low
+nobres,MT,1,1,Low
+nonoai,RS,2,2,Low
+nortelandia,MT,1,1,Low
+nossa senhora da gloria,SE,2,2,Low
+nossa senhora das dores,SE,1,1,Low
+nossa senhora das gracas,PR,2,2,Low
+nossa senhora de caravaggio,SC,1,1,Low
+nossa senhora de lourdes,SE,1,1,Low
+nossa senhora do o,PE,1,1,Low
+nossa senhora do remedio,SP,2,2,Low
+nossa senhora do socorro,SE,14,14,Low
+nova alvorada,RS,3,3,Low
+nova alvorada do sul,MS,3,3,Low
+nova america,GO,1,1,Low
+nova america da colina,PR,1,1,Low
+nova andradina,MS,11,11,Low
+nova araca,RS,1,1,Low
+nova aurora,GO,1,1,Low
+nova aurora,PR,3,3,Low
+nova bandeirantes,MT,4,4,Low
+nova bassano,RS,4,4,Low
+nova boa vista,RS,1,1,Low
+nova brasilandia d'oeste,RO,2,2,Low
+nova campina,SP,2,2,Low
+nova canaa,BA,2,2,Low
+nova canaa do norte,MT,3,3,Low
+nova canaa paulista,SP,2,2,Low
+nova cantu,PR,2,2,Low
+nova crixas,GO,1,1,Low
+nova cruz,RN,3,2,Low
+nova era,MG,15,15,Low
+nova erechim,SC,3,3,Low
+nova esperanca,PR,8,8,Low
+nova esperanca do piria,PA,1,1,Low
+nova esperanca do sudoeste,PR,1,1,Low
+nova esperanca do sul,RS,2,2,Low
+nova europa,SP,8,8,Low
+nova fatima,BA,1,1,Low
+nova fatima,PR,4,4,Low
+nova floresta,PB,1,1,Low
+nova friburgo,RJ,142,135,Low
+nova granada,SP,19,18,Low
+nova guarita,MT,1,1,Low
+nova guataporanga,SP,1,1,Low
+nova hartz,RS,3,3,Low
+nova iguacu,RJ,423,415,Low
+nova independencia,SP,1,1,Low
+nova ipixuna,PA,1,1,Low
+nova itaberaba,SC,2,2,Low
+nova lacerda,MT,1,1,Low
+nova laranjeiras,PR,1,1,Low
+nova lima,MG,96,93,Low
+nova londrina,PR,9,8,Low
+nova luzitania,SP,1,1,Low
+nova mamore,RO,2,2,Low
+nova monte verde,MT,3,3,Low
+nova mutum,MT,5,5,Low
+nova odessa,SP,37,37,Low
+nova olimpia,MT,2,2,Low
+nova olinda,CE,3,3,Low
+nova olinda,TO,1,1,Low
+nova olinda do maranhao,MA,4,4,Low
+nova padua,RS,1,1,Low
+nova palma,RS,2,2,Low
+nova petropolis,RS,8,8,Low
+nova ponte,MG,9,9,Low
+nova prata,RS,16,15,Low
+nova prata do iguacu,PR,6,6,Low
+nova redencao,BA,1,1,Low
+nova resende,MG,1,1,Low
+nova roma,GO,1,1,Low
+nova roma do sul,RS,1,1,Low
+nova russas,CE,7,7,Low
+nova santa barbara,PR,1,1,Low
+nova santa rita,PI,1,1,Low
+nova santa rita,RS,5,5,Low
+nova santa rosa,PR,4,4,Low
+nova serrana,MG,49,49,Low
+nova soure,BA,3,3,Low
+nova timboteua,PA,1,1,Low
+nova trento,SC,6,6,Low
+nova ubirata,MT,1,1,Low
+nova venecia,ES,19,17,Low
+nova veneza,GO,4,4,Low
+nova veneza,SC,3,3,Low
+nova vicosa,BA,1,1,Low
+nova xavantina,MT,10,10,Low
+novais,SP,1,1,Low
+novo alegre,TO,1,1,Low
+novo barreiro,RS,2,2,Low
+novo brasil,ES,1,1,Low
+novo cabrais,RS,1,1,Low
+novo cruzeiro,MG,9,6,Low
+novo gama,GO,13,13,Low
+novo hamburgo,RS,120,117,Low
+novo horizonte,SC,1,1,Low
+novo horizonte,SP,16,15,Low
+novo itacolomi,PR,1,1,Low
+novo jardim,TO,1,1,Low
+novo lino,AL,1,1,Low
+novo machado,RS,1,1,Low
+novo mundo,MT,1,1,Low
+novo oriente,CE,3,3,Low
+novo oriente do piaui,PI,2,2,Low
+novo planalto,GO,1,1,Low
+novo progresso,PA,5,5,Low
+novo repartimento,PA,2,2,Low
+novo sao joaquim,MT,3,3,Low
+nucleo residencial pilar,BA,8,7,Low
+nuporanga,SP,3,3,Low
+ocara,CE,2,2,Low
+ocaucu,SP,5,5,Low
+oeiras,PI,6,6,Low
+oeiras do para,PA,2,2,Low
+oiapoque,AP,1,1,Low
+olaria,MG,1,1,Low
+oleo,SP,1,1,Low
+olho d'agua das cunhas,MA,2,2,Low
+olho d'agua das flores,AL,3,2,Low
+olhos d'agua,MG,1,1,Low
+olimpia,SP,36,36,Low
+olinda,PE,89,88,Low
+olindina,BA,2,2,Low
+oliveira,MG,22,21,Low
+oliveira dos brejinhos,BA,2,2,Low
+onda verde,SP,1,1,Low
+oriente,SP,3,3,Low
+orindiuva,SP,5,5,Low
+orizania,MG,1,1,Low
+orizona,GO,6,6,Low
+orlandia,SP,28,27,Low
+orleans,SC,8,8,Low
+orobo,PE,1,1,Low
+oroco,PE,3,3,Low
+oros,CE,2,2,Low
+ortigueira,PR,8,8,Low
+osasco,SP,724,697,Low
+oscar bressane,SP,3,3,Low
+osorio,RS,35,34,Low
+osvaldo cruz,SP,16,15,Low
+osvaldo kroeff,RS,1,1,Low
+otacilio costa,SC,5,5,Low
+ourem,PA,1,1,Low
+ouricuri,PE,8,8,Low
+ourilandia do norte,PA,5,5,Low
+ourinhos,SP,77,76,Low
+ourizona,PR,1,1,Low
+ouro,SC,1,1,Low
+ouro branco,MG,41,39,Low
+ouro fino,MG,16,16,Low
+ouro preto,MG,55,54,Low
+ouro preto do oeste,RO,4,4,Low
+ouro verde,SP,3,3,Low
+ouro verde de goias,GO,1,1,Low
+ouro verde de minas,MG,2,2,Low
+ouro verde do oeste,PR,1,1,Low
+ouroeste,SP,11,11,Low
+ouvidor,GO,1,1,Low
+pacaembu,SP,6,6,Low
+pacaja,PA,6,6,Low
+pacajus,CE,6,6,Low
+pacatuba,CE,5,5,Low
+paco do lumiar,MA,7,7,Low
+pacoti,CE,2,2,Low
+pacotuba,ES,1,1,Low
+pacuja,CE,1,1,Low
+padre bernardo,GO,4,4,Low
+padre carvalho,MG,1,1,Low
+padre gonzales,RS,1,1,Low
+padre paraiso,MG,1,1,Low
+paial,SC,1,1,Low
+paicandu,PR,10,10,Low
+paineiras,MG,1,1,Low
+pains,MG,3,2,Low
+paiva,MG,2,2,Low
+palestina,SP,10,10,Low
+palhano,CE,1,1,Low
+palhoca,SC,90,89,Low
+palma,MG,4,4,Low
+palma sola,SC,4,4,Low
+palmares,PE,8,8,Low
+palmares do sul,RS,5,4,Low
+palmares paulista,SP,1,1,Low
+palmas,PR,19,18,Low
+palmas,TO,88,87,Low
+palmeira,PR,12,12,Low
+palmeira,SC,3,3,Low
+palmeira d oeste,SP,1,1,Low
+palmeira d'oeste,SP,5,5,Low
+palmeira das missoes,RS,16,15,Low
+palmeira dos indios,AL,8,8,Low
+palmeiras,BA,2,2,Low
+palmeiras de goias,GO,3,3,Low
+palmeirinha,PR,2,2,Low
+palminopolis,GO,1,1,Low
+palmital,PR,1,1,Low
+palmital,SP,18,17,Low
+palmitinho,RS,5,4,Low
+palmitos,SC,5,5,Low
+palmopolis,MG,1,1,Low
+palotina,PR,10,10,Low
+panambi,RS,17,17,Low
+pancas,ES,1,1,Low
+panelas,PE,2,2,Low
+panorama,SP,5,5,Low
+pantano grande,RS,3,3,Low
+papagaios,MG,4,3,Low
+papanduva,SC,8,8,Low
+papucaia,RJ,10,10,Low
+para de minas,MG,37,35,Low
+paracambi,RJ,35,35,Low
+paracatu,MG,62,59,Low
+paracuru,CE,4,4,Low
+paragominas,PA,18,16,Low
+paraguacu,MG,12,12,Low
+paraguacu paulista,SP,20,19,Low
+parai,RS,3,3,Low
+paraiba do sul,RJ,18,17,Low
+paraibano,MA,3,3,Low
+paraibuna,SP,10,10,Low
+paraipaba,CE,5,4,Low
+paraiso,SC,1,1,Low
+paraiso,SP,5,4,Low
+paraiso das aguas,MS,1,1,Low
+paraiso do norte,PR,3,2,Low
+paraiso do sul,RS,1,1,Low
+paraiso do tocantins,TO,10,10,Low
+paraisopolis,MG,14,14,Low
+paraju,ES,1,1,Low
+parambu,CE,4,3,Low
+paramirim,BA,5,5,Low
+parana,TO,2,2,Low
+paranacity,PR,3,3,Low
+paranagua,PR,58,56,Low
+paranaiba,MS,14,13,Low
+paranaiguara,GO,3,3,Low
+paranaita,MT,4,4,Low
+paranapanema,SP,11,10,Low
+paranapoema,PR,1,1,Low
+paranapua,SP,2,2,Low
+paranatinga,MT,2,2,Low
+paranavai,PR,45,44,Low
+paranhos,MS,1,1,Low
+paraopeba,MG,9,9,Low
+parapua,SP,8,6,Low
+parati,RJ,13,13,Low
+paraty,RJ,19,18,Low
+parauapebas,PA,27,24,Low
+parauna,GO,4,4,Low
+pardinho,SP,1,1,Low
+pareci novo,RS,1,1,Low
+parelhas,RN,4,4,Low
+paripiranga,BA,2,2,Low
+paripueira,AL,1,1,Low
+pariquera-acu,SP,15,15,Low
+parisi,SP,1,1,Low
+parnaiba,PI,22,22,Low
+parnamirim,PE,4,4,Low
+parnamirim,RN,57,55,Low
+parnarama,MA,1,1,Low
+parobe,RS,12,12,Low
+passa quatro,MG,9,9,Low
+passa tempo,MG,1,1,Low
+passa tres,RJ,2,2,Low
+passagem,PB,1,1,Low
+passagem franca,MA,1,1,Low
+passira,PE,1,1,Low
+passo de camaragibe,AL,1,1,Low
+passo de torres,SC,7,7,Low
+passo fundo,RS,112,111,Low
+passos,MG,43,43,Low
+passos maia,SC,2,2,Low
+pastos bons,MA,2,2,Low
+patis,MG,1,1,Low
+pato bragado,PR,2,2,Low
+pato branco,PR,53,51,Low
+patos,PB,16,16,Low
+patos de minas,MG,99,96,Low
+patrocinio,MG,45,44,Low
+patrocinio do muriae,MG,2,2,Low
+patrocinio paulista,SP,2,2,Low
+patu,RN,3,3,Low
+paty do alferes,RJ,13,12,Low
+pau brasil,BA,1,1,Low
+pau d'arco,PA,1,1,Low
+pau dos ferros,RN,9,9,Low
+paudalho,PE,2,2,Low
+paula candido,MG,1,1,Low
+paula freitas,PR,1,1,Low
+pauliceia,SP,2,2,Low
+paulinia,SP,127,122,Low
+paulista,PB,1,1,Low
+paulista,PE,41,41,Low
+paulistana,PI,3,3,Low
+paulistania,SP,1,1,Low
+paulo afonso,BA,39,39,Low
+paulo de faria,SP,5,5,Low
+paulo frontin,PR,5,4,Low
+paulo jacinto,AL,2,2,Low
+paulo lopes,SC,2,2,Low
+pavao,MG,1,1,Low
+peabiru,PR,4,4,Low
+pecanha,MG,4,4,Low
+pederneiras,SP,21,21,Low
+pedra,PE,3,3,Low
+pedra azul,MG,5,5,Low
+pedra bela,SP,2,2,Low
+pedra branca,CE,2,2,Low
+pedra branca,PB,1,1,Low
+pedra do indaia,MG,1,1,Low
+pedra lavrada,PB,1,1,Low
+pedra menina,MG,1,1,Low
+pedra preta,MT,4,4,Low
+pedra preta,RN,1,1,Low
+pedralva,MG,3,3,Low
+pedranopolis,SP,1,1,Low
+pedrao,BA,1,1,Low
+pedras altas,RS,1,1,Low
+pedras de fogo,PB,2,2,Low
+pedregulho,SP,2,2,Low
+pedreira,SP,36,34,Low
+pedreiras,MA,3,3,Low
+pedrinhas paulista,SP,4,4,Low
+pedrinopolis,MG,3,3,Low
+pedro afonso,TO,3,3,Low
+pedro canario,ES,5,5,Low
+pedro de toledo,SP,8,8,Low
+pedro gomes,MS,1,1,Low
+pedro ii,PI,1,1,Low
+pedro leopoldo,MG,40,40,Low
+pedro osorio,RS,3,3,Low
+pedro velho,RN,1,1,Low
+peixe,TO,1,1,Low
+peixoto de azevedo,MT,4,4,Low
+pejucara,RS,4,4,Low
+pelotas,RS,183,178,Low
+penaforte,CE,2,2,Low
+penapolis,SP,37,36,Low
+pendencias,RN,2,2,Low
+penedo,AL,8,8,Low
+penedo,RJ,1,1,Low
+penha,SC,15,15,Low
+pentecoste,CE,2,2,Low
+pequi,MG,1,1,Low
+pequizeiro,TO,1,1,Low
+perdigao,MG,6,4,Low
+perdizes,MG,8,8,Low
+perdoes,MG,9,8,Low
+pereira barreto,SP,18,18,Low
+pereiras,SP,1,1,Low
+pereiro,CE,3,3,Low
+peri mirim,MA,1,1,Low
+periquito,MG,2,2,Low
+peritiba,SC,2,2,Low
+perobal,PR,1,1,Low
+perola,PR,2,2,Low
+perola d'oeste,PR,2,2,Low
+perola independente,PR,1,1,Low
+perpetuo socorro,MG,2,2,Low
+peruibe,SP,43,42,Low
+pescador,MG,1,1,Low
+pesqueira,PE,9,9,Low
+petrolandia,PE,9,9,Low
+petrolandia,SC,5,3,Low
+petrolina,PE,62,62,Low
+petropolis,RJ,234,216,Low
+piacabucu,AL,2,1,Low
+piacatu,SP,1,1,Low
+piacu,ES,1,1,Low
+pianco,PB,1,1,Low
+piata,BA,2,2,Low
+piau,MG,2,2,Low
+picada cafe,RS,1,1,Low
+picarra,PA,1,1,Low
+picarras,SC,1,1,Low
+picos,PI,17,17,Low
+picui,PB,2,2,Low
+piedade,SP,22,22,Low
+piedade de caratinga,MG,7,7,Low
+piedade do rio grande,MG,3,3,Low
+piedade dos gerais,MG,3,3,Low
+pien,PR,4,4,Low
+pilao arcado,BA,4,4,Low
+pilar,AL,3,3,Low
+pilar,PB,1,1,Low
+pilar do sul,SP,12,12,Low
+pimenta,MG,2,2,Low
+pimenta bueno,RO,7,7,Low
+pimenteiras,PI,2,2,Low
+pindai,BA,2,2,Low
+pindamonhangaba,SP,97,92,Low
+pindare mirim,MA,3,3,Low
+pindoba,AL,2,2,Low
+pindobacu,BA,3,3,Low
+pindorama,SP,2,2,Low
+pindorama do tocantins,TO,2,2,Low
+pindoretama,CE,1,1,Low
+pingo-d'agua,MG,1,1,Low
+pinhais,PR,66,66,Low
+pinhal da serra,RS,1,1,Low
+pinhalao,PR,7,6,Low
+pinhalzinho,SC,9,9,Low
+pinhalzinho,SP,12,12,Low
+pinhao,PR,8,7,Low
+pinhao,SE,1,1,Low
+pinheiral,RJ,14,13,Low
+pinheiro,MA,4,4,Low
+pinheiro machado,RS,5,5,Low
+pinheiros,ES,8,8,Low
+pinheiros,SP,1,1,Low
+pinhotiba,MG,1,1,Low
+pintadas,BA,2,2,Low
+pio ix,PI,1,1,Low
+pio xii,MA,1,1,Low
+piquerobi,SP,1,1,Low
+piquete,SP,9,9,Low
+piracaia,SP,21,20,Low
+piracanjuba,GO,10,10,Low
+piracema,MG,1,1,Low
+piracicaba,SP,356,349,Low
+piracuruca,PI,2,2,Low
+pirai,RJ,15,15,Low
+pirai do norte,BA,1,1,Low
+pirai do sul,PR,6,6,Low
+piraju,SP,17,16,Low
+pirajuba,MG,1,1,Low
+pirajui,SP,12,12,Low
+pirambu,SE,1,1,Low
+piranga,MG,4,4,Low
+pirangi,SP,7,7,Low
+piranguinho,MG,9,8,Low
+piranhas,GO,4,3,Low
+pirapetinga,MG,7,7,Low
+pirapo,PR,1,1,Low
+pirapora,MG,42,40,Low
+pirapora do bom jesus,SP,16,14,Low
+pirapozinho,SP,14,13,Low
+piraquara,PR,14,14,Low
+pirassununga,SP,69,67,Low
+piratini,RS,1,1,Low
+piratininga,SP,8,8,Low
+piratuba,SC,5,5,Low
+pirauba,MG,3,2,Low
+pirenopolis,GO,4,4,Low
+pires do rio,GO,12,11,Low
+pires ferreira,CE,1,1,Low
+piripa,BA,2,2,Low
+piripiri,PI,7,7,Low
+piritiba,BA,5,4,Low
+pirpirituba,PB,1,1,Low
+pitanga,PR,3,3,Low
+pitanga de estrada,PB,1,1,Low
+pitangueiras,SP,16,16,Low
+pitangui,MG,22,21,Low
+pitimbu,PB,1,1,Low
+pium,TO,1,1,Low
+piuma,ES,17,17,Low
+piumhi,MG,3,3,Low
+piumhii,MG,28,28,Low
+placas,PA,2,2,Low
+planaltina,GO,10,10,Low
+planaltina de goias,GO,2,1,Low
+planaltina do parana,PR,1,1,Low
+planaltino,BA,1,1,Low
+planalto,BA,1,1,Low
+planalto,PR,4,4,Low
+planalto,RS,3,3,Low
+planalto,SP,1,1,Low
+planura,MG,2,2,Low
+poa,SP,85,81,Low
+pocao,PE,1,1,Low
+pocao de pedras,MA,1,1,Low
+pocinhos,PB,3,3,Low
+poco de pedra,RN,1,1,Low
+poco fundo,MG,8,8,Low
+poco redondo,SE,1,1,Low
+poco verde,SE,4,4,Low
+pocoes,BA,2,2,Low
+pocoes de paineiras,MG,1,1,Low
+pocos de caldas,MG,116,111,Low
+pocrane,MG,3,3,Low
+pojuca,BA,13,13,Low
+polo petroquimico de triunfo,RS,1,1,Low
+poloni,SP,3,3,Low
+pombal,PB,6,5,Low
+pombos,PE,1,1,Low
+pomerode,SC,9,9,Low
+pompeia,SP,17,17,Low
+pompeu,MG,11,11,Low
+pongai,SP,4,4,Low
+ponta grossa,PR,141,133,Low
+ponta pora,MS,18,16,Low
+pontal,SP,12,12,Low
+pontal do parana,PR,8,8,Low
+pontalina,GO,2,1,Low
+pontalinda,SP,2,2,Low
+pontao,RS,1,1,Low
+ponte alta do norte,SC,1,1,Low
+ponte nova,MG,39,38,Low
+ponte serrada,SC,3,3,Low
+pontes e lacerda,MT,9,9,Low
+pontes gestal,SP,1,1,Low
+ponto belo,ES,1,1,Low
+ponto do marambaia,MG,1,1,Low
+ponto dos volantes,MG,2,2,Low
+ponto novo,BA,1,1,Low
+populina,SP,1,1,Low
+porangaba,SP,2,2,Low
+porangatu,GO,13,13,Low
+porciuncula,RJ,8,7,Low
+porecatu,PR,9,8,Low
+portalegre,RN,2,2,Low
+portao,RS,10,10,Low
+porteiras,CE,1,1,Low
+porteirinha,MG,5,5,Low
+portela,RJ,1,1,Low
+portelandia,GO,2,2,Low
+porto acre,AC,1,1,Low
+porto alegre,RS,1341,1291,Medium
+porto alegre do norte,MT,1,1,Low
+porto amazonas,PR,2,2,Low
+porto belo,SC,9,9,Low
+porto calvo,AL,2,2,Low
+porto de pedras,AL,1,1,Low
+porto esperidiao,MT,2,2,Low
+porto estrela,MT,1,1,Low
+porto feliz,SP,21,21,Low
+porto ferreira,SP,26,25,Low
+porto firme,MG,2,2,Low
+porto franco,MA,2,2,Low
+porto grande,AP,1,1,Low
+porto lucena,RS,1,1,Low
+porto murtinho,MS,1,1,Low
+porto nacional,TO,8,8,Low
+porto real,RJ,7,6,Low
+porto rico,PR,1,1,Low
+porto seguro,BA,39,36,Low
+porto trombetas,PA,2,2,Low
+porto uniao,SC,14,14,Low
+porto velho,RO,108,100,Low
+porto xavier,RS,5,5,Low
+posse,GO,15,15,Low
+posto da mata,BA,4,4,Low
+pote,MG,3,3,Low
+potengi,CE,2,2,Low
+potim,SP,2,2,Low
+potiragua,BA,7,7,Low
+potirendaba,SP,8,8,Low
+pouso alegre,MG,128,122,Low
+pouso alto,MG,3,3,Low
+pouso novo,RS,1,1,Low
+pouso redondo,SC,3,3,Low
+poxoreu,MT,2,2,Low
+prado,BA,5,5,Low
+pradopolis,SP,10,10,Low
+prados,MG,3,3,Low
+praia grande,ES,1,1,Low
+praia grande,SC,4,4,Low
+praia grande,SP,296,278,Low
+praia norte,TO,1,1,Low
+pranchita,PR,1,1,Low
+prata,MG,10,10,Low
+prata,PB,1,1,Low
+pratapolis,MG,1,1,Low
+presidente alves,SP,2,2,Low
+presidente bernardes,SP,5,5,Low
+presidente castello branco,SC,1,1,Low
+presidente dutra,BA,3,3,Low
+presidente dutra,MA,11,11,Low
+presidente epitacio,SP,23,22,Low
+presidente getulio,SC,6,6,Low
+presidente janio quadros,BA,1,1,Low
+presidente juscelino,MA,1,1,Low
+presidente kennedy,ES,2,2,Low
+presidente kubitschek,MG,2,2,Low
+presidente lucena,RS,1,1,Low
+presidente medici,MA,1,1,Low
+presidente medici,RO,2,2,Low
+presidente nereu,SC,1,1,Low
+presidente olegario,MG,6,5,Low
+presidente prudente,SP,157,155,Low
+presidente tancredo neves,BA,4,4,Low
+presidente venceslau,SP,22,22,Low
+primavera,SP,9,9,Low
+primavera do leste,MT,28,27,Low
+primeiro de maio,PR,7,6,Low
+princesa isabel,PB,1,1,Low
+progresso,RS,1,1,Low
+promissao,SP,31,30,Low
+propria,SE,3,3,Low
+protasio alves,RS,2,2,Low
+prudencio thomaz,MS,1,1,Low
+prudente de morais,MG,2,1,Low
+prudentopolis,PR,7,7,Low
+pugmil,TO,1,1,Low
+pureza,RJ,1,1,Low
+purilandia,RJ,1,1,Low
+putinga,RS,2,2,Low
+puxinana,PB,1,1,Low
+quadra,SP,2,2,Low
+quarai,RS,4,4,Low
+quata,SP,12,12,Low
+quatigua,PR,5,5,Low
+quatis,RJ,5,5,Low
+quatituba,MG,1,1,Low
+quatro barras,PR,18,18,Low
+quatro bocas,PA,5,5,Low
+quatro pontes,PR,1,1,Low
+quedas do iguacu,PR,8,7,Low
+queimadas,BA,4,4,Low
+queimadas,PB,5,5,Low
+queimados,RJ,53,52,Low
+queiroz,SP,1,1,Low
+queixada,MG,1,1,Low
+queluz,SP,2,2,Low
+querencia,MT,10,10,Low
+querencia do norte,PR,1,1,Low
+quevedos,RS,2,2,Low
+quijingue,BA,2,2,Low
+quilombo,SC,4,4,Low
+quilometro 14 do mutum,ES,1,1,Low
+quinta do sol,PR,3,3,Low
+quintana,SP,4,4,Low
+quipapa,PE,1,1,Low
+quirinopolis,GO,14,14,Low
+quissama,RJ,11,11,Low
+quitandinha,PR,2,2,Low
+quixabeira,BA,3,3,Low
+quixada,CE,12,12,Low
+quixada,PE,1,1,Low
+quixelo,CE,2,2,Low
+quixeramobim,CE,6,6,Low
+quixere,CE,2,2,Low
+rafard,SP,5,5,Low
+rainha do mar,RS,1,1,Low
+rancharia,SP,21,20,Low
+rancho alegre,PR,1,1,Low
+rancho alegre d'oeste,PR,1,1,Low
+rancho queimado,SC,2,2,Low
+raposo,RJ,3,2,Low
+raposos,MG,11,11,Low
+raul soares,MG,12,11,Low
+ravena,MG,1,1,Low
+realeza,PR,6,6,Low
+reboucas,PR,6,6,Low
+rechan,SP,2,2,Low
+recife,PE,593,571,Low
+recreio,MG,3,3,Low
+redencao,CE,4,3,Low
+redencao,PA,12,12,Low
+redencao da serra,SP,1,1,Low
+redencao do gurgueia,PI,1,1,Low
+redentora,RS,3,2,Low
+regeneracao,PI,6,6,Low
+regente feijo,SP,10,10,Low
+reginopolis,SP,3,3,Low
+registro,SP,45,44,Low
+remanso,BA,5,5,Low
+remigio,PB,1,1,Low
+renascenca,PR,4,4,Low
+reriutaba,CE,3,3,Low
+resende,RJ,115,113,Low
+resende costa,MG,3,3,Low
+reserva,PR,3,3,Low
+reserva do cabacal,MT,2,2,Low
+reserva do iguacu,PR,1,1,Low
+resplendor,MG,10,10,Low
+ressaquinha,MG,1,1,Low
+restinga seca,RS,3,3,Low
+retirolandia,BA,1,1,Low
+riachao das neves,BA,2,1,Low
+riachao do jacuipe,BA,5,4,Low
+riachinho,MG,2,2,Low
+riacho da cruz,RN,1,1,Low
+riacho das almas,PE,2,2,Low
+riacho de santana,BA,4,4,Low
+riacho de santo antonio,PB,1,1,Low
+riacho dos machados,MG,3,2,Low
+riachuelo,SE,1,1,Low
+rianapolis,GO,4,4,Low
+ribas do rio pardo,MS,1,1,Low
+ribeira,SP,3,3,Low
+ribeira do amparo,BA,1,1,Low
+ribeira do pombal,BA,8,8,Low
+ribeirao,PE,4,4,Low
+ribeirao bonito,SP,7,7,Low
+ribeirao branco,SP,2,2,Low
+ribeirao cascalheira,MT,1,1,Low
+ribeirao claro,PR,5,5,Low
+ribeirao das neves,MG,98,93,Low
+ribeirao do pinhal,PR,5,5,Low
+ribeirao do sul,SP,3,3,Low
+ribeirao pires,SP,106,105,Low
+ribeirao preto,SP,499,479,Low
+ribeirao vermelho,MG,2,2,Low
+ribeiraozinho,MT,2,2,Low
+ribeiro junqueira,MG,1,1,Low
+ribeiropolis,SE,1,1,Low
+rifaina,SP,2,2,Low
+rincao,SP,1,1,Low
+rinopolis,SP,2,2,Low
+rio acima,MG,8,8,Low
+rio azul,PR,5,5,Low
+rio bananal,ES,4,4,Low
+rio bonito,RJ,27,26,Low
+rio bonito do iguacu,PR,4,4,Low
+rio branco,AC,69,65,Low
+rio branco,MT,3,3,Low
+rio branco do sul,PR,6,6,Low
+rio brilhante,MS,11,11,Low
+rio casca,MG,5,5,Low
+rio claro,RJ,3,3,Low
+rio claro,SP,151,146,Low
+rio das antas,SC,2,2,Low
+rio das flores,RJ,6,6,Low
+rio das ostras,RJ,130,128,Low
+rio das pedras,SP,10,10,Low
+rio de contas,BA,3,3,Low
+rio de janeiro,RJ,6600,6360,High
+rio do antonio,BA,2,2,Low
+rio do campo,SC,4,4,Low
+rio do oeste,SC,3,3,Low
+rio do pires,BA,4,3,Low
+rio do sul,SC,35,33,Low
+rio doce,MG,1,1,Low
+rio dos cedros,SC,1,1,Low
+rio dos indios,RS,1,1,Low
+rio espera,MG,1,1,Low
+rio formoso,PE,2,2,Low
+rio fortuna,SC,3,3,Low
+rio grande,RS,121,118,Low
+rio grande da serra,SP,25,23,Low
+rio grande do piaui,PI,1,1,Low
+rio largo,AL,6,6,Low
+rio manso,MG,5,5,Low
+rio maria,PA,3,1,Low
+rio negrinho,SC,13,13,Low
+rio negro,PR,15,15,Low
+rio novo,MG,4,4,Low
+rio novo do sul,ES,6,6,Low
+rio paranaiba,MG,9,9,Low
+rio pardo,RS,5,5,Low
+rio pardo de minas,MG,5,5,Low
+rio piracicaba,MG,4,4,Low
+rio pomba,MG,6,6,Low
+rio preto,MG,4,4,Low
+rio real,BA,3,3,Low
+rio rufino,SC,1,1,Low
+rio tinto,PB,2,2,Low
+rio verde,GO,63,63,Low
+rio verde,PR,1,1,Low
+riolandia,SP,3,3,Low
+riqueza,SC,3,3,Low
+ritapolis,MG,3,3,Low
+riversul,SP,1,1,Low
+roca sales,RS,2,2,Low
+rodeio,SC,7,7,Low
+rodeio bonito,RS,2,2,Low
+rodeiro,MG,3,2,Low
+rodelas,BA,3,3,Low
+rodolfo fernandes,RN,2,2,Low
+rolandia,PR,24,24,Low
+rolante,RS,9,9,Low
+rolim de moura,RO,7,7,Low
+romaria,MG,2,2,Low
+romelandia,SC,1,1,Low
+roncador,PR,2,2,Low
+ronda alta,RS,6,6,Low
+rondon,PR,2,2,Low
+rondon do para,PA,9,9,Low
+rondonopolis,MT,64,59,Low
+roque gonzales,RS,5,4,Low
+rosana,SP,4,4,Low
+rosario,MA,1,1,Low
+rosario do ivai,PR,1,1,Low
+rosario do sul,RS,14,12,Low
+roseira,SP,5,5,Low
+rubelita,MG,1,1,Low
+rubiacea,SP,2,2,Low
+rubiataba,GO,7,7,Low
+rubim,MG,3,3,Low
+rubineia,SP,1,1,Low
+russas,CE,9,9,Low
+ruy barbosa,BA,7,7,Low
+sabara,MG,42,40,Low
+sabaudia,PR,1,1,Low
+sabino,SP,3,3,Low
+sabinopolis,MG,5,5,Low
+saboeiro,CE,1,1,Low
+sacra familia do tingua,RJ,1,1,Low
+sacramento,MG,13,12,Low
+sales,SP,5,5,Low
+sales oliveira,SP,6,6,Low
+salesopolis,SP,10,10,Low
+salgado filho,PR,3,3,Low
+salgueiro,PE,17,16,Low
+salinas,MG,22,22,Low
+salinas da margarida,BA,1,1,Low
+salmourao,SP,2,2,Low
+saloa,PE,3,3,Low
+salobro,BA,1,1,Low
+saltinho,SP,5,4,Low
+salto,SP,89,88,Low
+salto da divisa,MG,2,2,Low
+salto de pirapora,SP,12,12,Low
+salto do ceu,MT,2,2,Low
+salto do itarare,PR,1,1,Low
+salto do jacui,RS,4,4,Low
+salto do lontra,PR,4,4,Low
+salto grande,SP,1,1,Low
+salto veloso,SC,4,4,Low
+salvador,BA,1188,1154,Medium
+salvador do sul,RS,1,1,Low
+sambaiba,MA,1,1,Low
+sananduva,RS,6,6,Low
+sanclerlandia,GO,4,3,Low
+sandolandia,TO,1,1,Low
+sanga puita,MS,1,1,Low
+sangao,SC,3,3,Low
+sanharo,PE,3,3,Low
+santa adelia,SP,15,15,Low
+santa albertina,SP,7,7,Low
+santa amelia,PR,1,1,Low
+santa barbara,MG,25,22,Low
+santa barbara d oeste,SP,4,4,Low
+santa barbara d'oeste,SP,118,117,Low
+santa barbara do para,PA,1,1,Low
+santa barbara do sul,RS,2,2,Low
+santa branca,SP,9,9,Low
+santa brigida,BA,1,1,Low
+santa cecilia,PB,1,1,Low
+santa cecilia,SC,4,4,Low
+santa cecilia do pavao,PR,1,1,Low
+santa clara d'oeste,SP,1,1,Low
+santa clara do sul,RS,2,2,Low
+santa cruz,PE,2,2,Low
+santa cruz,RN,4,4,Low
+santa cruz cabralia,BA,5,5,Low
+santa cruz da conceicao,SP,4,3,Low
+santa cruz das palmeiras,SP,9,9,Low
+santa cruz de goias,GO,2,2,Low
+santa cruz de minas,MG,5,4,Low
+santa cruz de monte castelo,PR,4,4,Low
+santa cruz de salinas,MG,2,2,Low
+santa cruz do capibaribe,PE,11,11,Low
+santa cruz do piaui,PI,1,1,Low
+santa cruz do prata,MG,2,2,Low
+santa cruz do rio pardo,SP,34,33,Low
+santa cruz do sul,RS,62,60,Low
+santa cruz do timbo,SC,1,1,Low
+santa ernestina,SP,2,2,Low
+santa fe,PR,5,5,Low
+santa fe de goias,GO,4,3,Low
+santa fe de minas,MG,1,1,Low
+santa fe do sul,SP,34,32,Low
+santa filomena,PE,1,1,Low
+santa gertrudes,SP,11,11,Low
+santa helena,MA,3,3,Low
+santa helena,PR,9,9,Low
+santa helena de goias,GO,9,9,Low
+santa helena de minas,MG,2,2,Low
+santa ines,BA,3,3,Low
+santa ines,MA,12,12,Low
+santa isabel,SP,28,26,Low
+santa isabel do ivai,PR,3,3,Low
+santa isabel do para,PA,6,6,Low
+santa isabel do rio preto,RJ,1,1,Low
+santa izabel do oeste,PR,2,2,Low
+santa juliana,MG,8,8,Low
+santa leopoldina,ES,1,1,Low
+santa lucia,PR,1,1,Low
+santa lucia,SP,3,3,Low
+santa luzia,MA,2,2,Low
+santa luzia,MG,89,88,Low
+santa luzia,PB,5,5,Low
+santa luzia do norte,AL,1,1,Low
+santa luzia do parua,MA,1,1,Low
+santa margarida,MG,2,2,Low
+santa margarida,PR,1,1,Low
+santa maria,DF,1,1,Low
+santa maria,RJ,1,1,Low
+santa maria,RN,1,1,Low
+santa maria,RS,193,187,Low
+santa maria da boa vista,PE,2,2,Low
+santa maria da serra,SP,2,2,Low
+santa maria da vitoria,BA,13,13,Low
+santa maria de itabira,MG,4,4,Low
+santa maria de jetiba,ES,15,14,Low
+santa maria do herval,RS,1,1,Low
+santa maria do para,PA,2,2,Low
+santa maria do salto,MG,1,1,Low
+santa maria do suacui,MG,2,2,Low
+santa maria madalena,RJ,7,7,Low
+santa mariana,PR,4,4,Low
+santa mercedes,SP,2,2,Low
+santa monica,PR,2,2,Low
+santa quiteria,CE,5,5,Low
+santa quiteria do maranhao,MA,1,1,Low
+santa rita,MA,1,1,Low
+santa rita,PB,6,5,Low
+santa rita d'oeste,SP,3,3,Low
+santa rita da floresta,RJ,1,1,Low
+santa rita de caldas,MG,6,6,Low
+santa rita de jacutinga,MG,1,1,Low
+santa rita de minas,MG,3,3,Low
+santa rita do araguaia,GO,7,7,Low
+santa rita do ibitipoca,MG,2,2,Low
+santa rita do itueto,MG,1,1,Low
+santa rita do passa quatro,SP,18,16,Low
+santa rita do sapucai,MG,35,34,Low
+santa rosa,RS,32,29,Low
+santa rosa de lima,SC,3,2,Low
+santa rosa de viterbo,SP,13,11,Low
+santa rosa do sul,SC,1,1,Low
+santa salete,SP,1,1,Low
+santa teresa,ES,10,9,Low
+santa teresinha,BA,2,2,Low
+santa tereza do oeste,PR,3,3,Low
+santa terezinha,PE,1,1,Low
+santa terezinha,SC,1,1,Low
+santa terezinha de itaipu,PR,3,3,Low
+santa vitoria,MG,17,16,Low
+santa vitoria do palmar,RS,12,12,Low
+santaluz,BA,3,3,Low
+santana,AP,9,9,Low
+santana,BA,3,3,Low
+santana,PR,1,1,Low
+santana da boa vista,RS,2,2,Low
+santana da vargem,MG,4,4,Low
+santana de parnaiba,SP,178,172,Low
+santana de pirapama,MG,1,1,Low
+santana do acarau,CE,4,4,Low
+santana do araguaia,PA,2,2,Low
+santana do capivari,MG,1,1,Low
+santana do cariri,CE,3,3,Low
+santana do deserto,MG,1,1,Low
+santana do ipanema,AL,1,1,Low
+santana do itarare,PR,1,1,Low
+santana do jacare,MG,4,4,Low
+santana do livramento,RS,20,20,Low
+santana do manhuacu,MG,3,3,Low
+santana do mundau,AL,3,3,Low
+santana do paraiso,MG,16,16,Low
+santana do serido,RN,2,2,Low
+santana do sobrado,BA,1,1,Low
+santana dos montes,MG,2,2,Low
+santanesia,RJ,4,4,Low
+santarem,PA,43,42,Low
+santiago,RS,26,26,Low
+santo amaro,BA,10,9,Low
+santo amaro da imperatriz,SC,11,11,Low
+santo amaro das brotas,SE,1,1,Low
+santo amaro de campos,RJ,6,6,Low
+santo anastacio,SP,17,14,Low
+santo andre,PB,1,1,Low
+santo andre,SP,777,750,Low
+santo angelo,RS,45,42,Low
+santo antonio,RN,1,1,Low
+santo antonio da alegria,SP,3,3,Low
+santo antonio da patrulha,RS,17,17,Low
+santo antonio da platina,PR,12,11,Low
+santo antonio das missoes,RS,4,4,Low
+santo antonio das queimadas,PE,1,1,Low
+santo antonio de jesus,BA,29,27,Low
+santo antonio de padua,RJ,30,29,Low
+santo antonio de posse,SP,20,19,Low
+santo antonio do amparo,MG,4,4,Low
+santo antonio do aracangua,SP,1,1,Low
+santo antonio do aventureiro,MG,1,1,Low
+santo antonio do caiua,PR,1,1,Low
+santo antonio do canaa,ES,1,1,Low
+santo antonio do descoberto,GO,5,5,Low
+santo antonio do grama,MG,2,2,Low
+santo antonio do itambe,MG,3,3,Low
+santo antonio do jacinto,MG,7,7,Low
+santo antonio do jardim,SP,4,4,Low
+santo antonio do leste,MT,1,1,Low
+santo antonio do leverger,MT,1,1,Low
+santo antonio do monte,MG,14,14,Low
+santo antonio do palma,RS,2,2,Low
+santo antonio do pinhal,SP,2,2,Low
+santo antonio do planalto,RS,1,1,Low
+santo antonio do rio abaixo,MG,1,1,Low
+santo antonio do sudoeste,PR,3,3,Low
+santo antonio do taua,PA,1,1,Low
+santo antonio dos campos,MG,1,1,Low
+santo augusto,RS,8,7,Low
+santo cristo,RS,7,7,Low
+santo eduardo,RJ,2,2,Low
+santo estevao,BA,5,5,Low
+santo expedito,SP,1,1,Low
+santo expedito do sul,RS,1,1,Low
+santo hipolito,MG,1,1,Low
+santo inacio,PR,1,1,Low
+santos,SP,699,679,Low
+santos dumont,MG,22,21,Low
+sao benedito,CE,4,4,Low
+sao benedito,MG,1,1,Low
+sao benedito do rio preto,MA,1,1,Low
+sao benedito do sul,PE,1,1,Low
+sao bentinho,PB,1,1,Low
+sao bento,MA,2,2,Low
+sao bento,PB,3,3,Low
+sao bento abade,MG,1,1,Low
+sao bento do sapucai,SP,7,7,Low
+sao bento do sul,SC,44,43,Low
+sao bento do una,PE,4,4,Low
+sao bernardino,SC,1,1,Low
+sao bernardo,MA,3,3,Low
+sao bernardo do campo,SP,911,881,Low
+sao bonifacio,SC,1,1,Low
+sao borja,RS,18,15,Low
+sao bras,AL,1,1,Low
+sao bras do suacui,MG,2,2,Low
+sao caetano do sul,SP,272,262,Low
+sao carlos,SC,5,5,Low
+sao carlos,SP,230,220,Low
+sao carlos do ivai,PR,1,1,Low
+sao clemente,PR,1,1,Low
+sao cristovao,SE,7,7,Low
+sao cristovao do sul,SC,1,1,Low
+sao desiderio,BA,1,1,Low
+sao domingos,BA,3,3,Low
+sao domingos,MG,1,1,Low
+sao domingos,PE,1,1,Low
+sao domingos,SC,2,2,Low
+sao domingos das dores,MG,1,1,Low
+sao domingos do araguaia,PA,1,1,Low
+sao domingos do maranhao,MA,2,2,Low
+sao domingos do norte,ES,7,7,Low
+sao domingos do prata,MG,4,4,Low
+sao felipe,BA,2,2,Low
+sao felix,BA,1,1,Low
+sao felix de minas,MG,1,1,Low
+sao felix do araguaia,MT,1,1,Low
+sao felix do coribe,BA,1,1,Low
+sao felix do xingu,PA,8,8,Low
+sao fidelis,RJ,23,23,Low
+sao francisco,MG,12,12,Low
+sao francisco,PB,1,1,Low
+sao francisco,SE,3,3,Low
+sao francisco,SP,2,2,Low
+sao francisco de assis,RS,2,2,Low
+sao francisco de itabapoana,RJ,15,14,Low
+sao francisco de paula,MG,2,2,Low
+sao francisco de paula,RS,5,5,Low
+sao francisco do brejao,MA,1,1,Low
+sao francisco do conde,BA,3,3,Low
+sao francisco do gloria,MG,1,1,Low
+sao francisco do guapore,RO,2,2,Low
+sao francisco do sul,SC,16,15,Low
+sao gabriel,RS,23,22,Low
+sao gabriel da palha,ES,13,13,Low
+sao gabriel do oeste,MS,7,7,Low
+sao geraldo,MG,4,4,Low
+sao geraldo da piedade,MG,1,1,Low
+sao geraldo do baguari,MG,1,1,Low
+sao goncalo,RJ,385,377,Low
+sao goncalo do abaete,MG,2,2,Low
+sao goncalo do amarante,CE,5,5,Low
+sao goncalo do amarante,RN,7,7,Low
+sao goncalo do para,MG,3,3,Low
+sao goncalo do rio abaixo,MG,6,6,Low
+sao goncalo do rio das pedras,MG,1,1,Low
+sao goncalo do rio preto,MG,3,3,Low
+sao goncalo do sapucai,MG,8,8,Low
+sao gotardo,MG,20,20,Low
+sao jeronimo,RS,7,7,Low
+sao joao,PE,1,1,Low
+sao joao,PR,11,10,Low
+sao joao batista,MA,1,1,Low
+sao joao batista,SC,10,10,Low
+sao joao batista do gloria,MG,3,3,Low
+sao joao d'alianca,GO,3,3,Low
+sao joao da barra,RJ,15,15,Low
+sao joao da boa vista,SP,80,74,Low
+sao joao da mata,MG,2,2,Low
+sao joao da parauna,GO,1,1,Low
+sao joao da ponte,MG,1,1,Low
+sao joao da urtiga,RS,1,1,Low
+sao joao das missoes,MG,2,2,Low
+sao joao de iracema,SP,3,3,Low
+sao joao de meriti,RJ,124,121,Low
+sao joao de petropolis,ES,1,1,Low
+sao joao de pirabas,PA,2,2,Low
+sao joao del rei,MG,66,65,Low
+sao joao do ivai,PR,2,2,Low
+sao joao do manhuacu,MG,2,2,Low
+sao joao do manteninha,MG,3,3,Low
+sao joao do oriente,MG,2,2,Low
+sao joao do paraiso,MA,1,1,Low
+sao joao do paraiso,MG,4,4,Low
+sao joao do paraiso,RJ,1,1,Low
+sao joao do piaui,PI,5,5,Low
+sao joao do sabugi,RN,1,1,Low
+sao joao do sobrado,ES,1,1,Low
+sao joao do sul,SC,2,2,Low
+sao joao do triunfo,PR,2,2,Low
+sao joao dos patos,MA,7,7,Low
+sao joao evangelista,MG,6,6,Low
+sao joao nepomuceno,MG,14,13,Low
+sao joaquim,SC,9,9,Low
+sao joaquim da barra,SP,34,31,Low
+sao joaquim de bicas,MG,8,8,Low
+sao joaquim do monte,PE,1,1,Low
+sao jorge,RS,1,1,Low
+sao jorge d'oeste,PR,1,1,Low
+sao jorge do ivai,PR,1,1,Low
+sao jorge do oeste,PR,1,1,Low
+sao jorge do patrocinio,PR,2,2,Low
+sao jose,SC,167,164,Low
+sao jose da barra,MG,6,6,Low
+sao jose da bela vista,SP,3,3,Low
+sao jose da boa vista,PR,1,1,Low
+sao jose da coroa grande,PE,2,2,Low
+sao jose da laje,AL,2,2,Low
+sao jose da lapa,MG,8,8,Low
+sao jose da tapera,AL,1,1,Low
+sao jose da vitoria,BA,2,2,Low
+sao jose de mipibu,RN,3,3,Low
+sao jose de ribamar,MA,13,13,Low
+sao jose de uba,RJ,3,3,Low
+sao jose do barreiro,SP,3,2,Low
+sao jose do belmonte,PE,2,2,Low
+sao jose do calcado,ES,6,6,Low
+sao jose do campestre,RN,1,1,Low
+sao jose do cedro,SC,5,4,Low
+sao jose do cerrito,SC,3,3,Low
+sao jose do divino,MG,1,1,Low
+sao jose do divino,PI,1,1,Low
+sao jose do egito,PE,4,4,Low
+sao jose do goiabal,MG,2,2,Low
+sao jose do hortencio,RS,2,2,Low
+sao jose do inhacora,RS,1,1,Low
+sao jose do norte,RS,7,7,Low
+sao jose do ouro,RS,5,5,Low
+sao jose do piaui,PI,1,1,Low
+sao jose do ribeirao,RJ,1,1,Low
+sao jose do rio claro,MT,2,2,Low
+sao jose do rio pardo,SP,44,42,Low
+sao jose do rio preto,SP,329,324,Low
+sao jose do serido,RN,1,1,Low
+sao jose do turvo,RJ,3,3,Low
+sao jose do vale do rio preto,RJ,12,12,Low
+sao jose do xingu,MT,1,1,Low
+sao jose dos campos,SP,667,644,Low
+sao jose dos cordeiros,PB,1,1,Low
+sao jose dos pinhais,PR,130,125,Low
+sao jose dos quatro marcos,MT,2,2,Low
+sao leopoldo,RS,103,100,Low
+sao lourenco,MG,32,30,Low
+sao lourenco da mata,PE,11,11,Low
+sao lourenco da serra,SP,12,12,Low
+sao lourenco do oeste,SC,9,9,Low
+sao lourenco do piaui,PI,1,1,Low
+sao lourenco do sul,RS,14,14,Low
+sao ludgero,SC,3,3,Low
+sao luis,MA,335,326,Low
+sao luis de montes belos,GO,7,7,Low
+sao luis do curu,CE,2,2,Low
+sao luis do paraitinga,SP,3,3,Low
+sao luis do quitunde,AL,2,2,Low
+sao luiz do norte,GO,1,1,Low
+sao luiz gonzaga,RS,15,15,Low
+sao mamede,PB,1,1,Low
+sao manuel,SP,20,19,Low
+sao marcos,RS,9,9,Low
+sao martinho,RS,1,1,Low
+sao martinho,SC,2,2,Low
+sao mateus,ES,47,43,Low
+sao mateus de minas,MG,1,1,Low
+sao mateus do maranhao,MA,3,3,Low
+sao mateus do sul,PR,15,15,Low
+sao miguel,RN,4,3,Low
+sao miguel arcanjo,SP,13,12,Low
+sao miguel das matas,BA,1,1,Low
+sao miguel do aleixo,SE,1,1,Low
+sao miguel do anta,MG,1,1,Low
+sao miguel do araguaia,GO,5,5,Low
+sao miguel do cambui,PR,1,1,Low
+sao miguel do gostoso,RN,2,2,Low
+sao miguel do guama,PA,5,5,Low
+sao miguel do guapore,RO,4,3,Low
+sao miguel do iguacu,PR,9,9,Low
+sao miguel do oeste,SC,39,39,Low
+sao miguel do tapuio,PI,2,2,Low
+sao miguel dos campos,AL,2,2,Low
+sao nicolau,RS,1,1,Low
+sao patricio,GO,1,1,Low
+sao paulo,SP,15043,14527,High
+sao paulo das missoes,RS,2,2,Low
+sao paulo do potengi,RN,2,2,Low
+sao pedro,SP,12,12,Low
+sao pedro da agua branca,MA,1,1,Low
+sao pedro da aldeia,RJ,46,44,Low
+sao pedro da uniao,MG,3,3,Low
+sao pedro de alcantara,SC,2,2,Low
+sao pedro do butia,RS,1,1,Low
+sao pedro do iguacu,PR,1,1,Low
+sao pedro do ivai,PR,3,3,Low
+sao pedro do sul,RS,1,1,Low
+sao pedro do turvo,SP,2,2,Low
+sao pedro dos ferros,MG,4,3,Low
+sao rafael,RN,1,1,Low
+sao raimundo nonato,PI,7,7,Low
+sao romao,MG,5,5,Low
+sao roque,SP,75,73,Low
+sao roque de minas,MG,2,2,Low
+sao roque do canaa,ES,5,5,Low
+sao sebastiao,AL,1,1,Low
+sao sebastiao,SP,56,55,Low
+sao sebastiao da amoreira,PR,1,1,Low
+sao sebastiao da boa vista,PA,2,2,Low
+sao sebastiao da grama,SP,4,4,Low
+sao sebastiao da serra,SP,1,1,Low
+sao sebastiao de campos,RJ,1,1,Low
+sao sebastiao do alto,RJ,4,4,Low
+sao sebastiao do cai,RS,12,11,Low
+sao sebastiao do maranhao,MG,3,3,Low
+sao sebastiao do paraiba,RJ,1,1,Low
+sao sebastiao do paraiso,MG,35,34,Low
+sao sebastiao do passe,BA,5,5,Low
+sao sebastiao do rio verde,MG,1,1,Low
+sao sepe,RS,6,6,Low
+sao simao,GO,3,3,Low
+sao simao,SP,10,9,Low
+sao thome das letras,MG,2,2,Low
+sao tiago,MG,5,5,Low
+sao tomas de aquino,MG,3,3,Low
+sao tome,PR,2,2,Low
+sao tome,RN,1,1,Low
+sao valentim,RS,3,3,Low
+sao vendelino,RS,1,1,Low
+sao vicente,RN,2,2,Low
+sao vicente,SP,157,155,Low
+sao vicente ferrer,MA,1,1,Low
+sao vicente ferrer,PE,1,1,Low
+sao vitor,MG,1,1,Low
+sape,PB,2,2,Low
+sapeacu,BA,2,2,Low
+sapezal,MT,8,8,Low
+sapiranga,RS,23,23,Low
+sapopema,PR,2,2,Low
+sapucai-mirim,MG,4,4,Low
+sapucaia,MG,1,1,Low
+sapucaia,RJ,4,4,Low
+sapucaia do sul,RS,39,39,Low
+saquarema,RJ,45,38,Low
+sarandi,PR,17,17,Low
+sarandi,RS,5,5,Low
+sarapui,SP,2,2,Low
+sardoa,MG,1,1,Low
+sarutaia,SP,1,1,Low
+sarzedo,MG,18,18,Low
+satiro dias,BA,1,1,Low
+satuba,AL,2,2,Low
+satubinha,MA,2,2,Low
+saubara,BA,1,1,Low
+saudade do iguacu,PR,4,4,Low
+saudades,SC,4,4,Low
+saude,BA,2,2,Low
+schroeder,SC,9,9,Low
+seabra,BA,6,6,Low
+seara,SC,5,5,Low
+sebastiao leal,PI,1,1,Low
+seberi,RS,2,2,Low
+sede alvorada,PR,1,1,Low
+segredo,RS,1,1,Low
+selbach,RS,1,1,Low
+senador amaral,MG,2,1,Low
+senador canedo,GO,16,16,Low
+senador cortes,MG,1,1,Low
+senador firmino,MG,2,2,Low
+senador guiomard,AC,2,2,Low
+senador jose porfirio,PA,1,1,Low
+senador la rocque,MA,1,1,Low
+senador modestino goncalves,MG,2,2,Low
+senador pompeu,CE,4,4,Low
+senador salgado filho,RS,1,1,Low
+senges,PR,5,5,Low
+senhor do bonfim,BA,18,17,Low
+senhora de oliveira,MG,2,2,Low
+senhora dos remedios,MG,1,1,Low
+sento se,BA,1,1,Low
+serafina correa,RS,9,9,Low
+sericita,MG,2,2,Low
+seringueiras,RO,2,2,Low
+serio,RS,1,1,Low
+seropedica,RJ,33,32,Low
+serra,ES,278,272,Low
+serra azul,SP,1,1,Low
+serra azul de minas,MG,2,2,Low
+serra bonita,MG,1,1,Low
+serra branca,PB,1,1,Low
+serra de sao bento,RN,2,2,Low
+serra do ramalho,BA,4,4,Low
+serra do salitre,MG,1,1,Low
+serra dos aimores,MG,5,5,Low
+serra dos dourados,PR,1,1,Low
+serra dourada,BA,2,2,Low
+serra negra,SP,13,13,Low
+serra talhada,PE,10,10,Low
+serrana,SP,13,13,Low
+serrania,MG,2,2,Low
+serranopolis,GO,3,3,Low
+serranopolis de minas,MG,1,1,Low
+serranopolis do iguacu,PR,2,2,Low
+serrinha,BA,14,13,Low
+serrita,PE,2,2,Low
+serro,MG,2,2,Low
+serrolandia,BA,2,2,Low
+sertania,PE,4,4,Low
+sertanopolis,PR,4,4,Low
+sertao,RS,3,3,Low
+sertao santana,RS,1,1,Low
+sertaozinho,SP,61,60,Low
+sete barras,SP,4,4,Low
+sete de setembro,RS,1,1,Low
+sete lagoas,MG,126,121,Low
+setubinha,MG,3,3,Low
+severiano melo,RN,1,1,Low
+severinia,SP,5,5,Low
+sideropolis,SC,4,4,Low
+sidrolandia,MS,11,9,Low
+silva jardim,RJ,4,4,Low
+silvania,GO,7,7,Low
+silvano,MG,1,1,Low
+silvanopolis,TO,1,1,Low
+silveira carvalho,MG,1,1,Low
+silveira martins,RS,1,1,Low
+silveiras,SP,3,3,Low
+silvianopolis,MG,3,2,Low
+simao dias,SE,7,7,Low
+simao pereira,MG,1,1,Low
+simoes filho,BA,21,21,Low
+simolandia,GO,2,2,Low
+simonesia,MG,8,7,Low
+simplicio mendes,PI,1,1,Low
+sinimbu,RS,2,2,Low
+sinop,MT,43,41,Low
+siqueira campos,PR,9,9,Low
+siriji,PE,1,1,Low
+sirinhaem,PE,5,5,Low
+sitio do quinto,BA,2,2,Low
+sitio novo,MA,1,1,Low
+sitio novo,RN,1,1,Low
+sitio novo do tocantins,TO,2,1,Low
+sobradinho,BA,5,5,Low
+sobradinho,DF,1,1,Low
+sobradinho,RS,3,3,Low
+sobral,CE,33,33,Low
+sobralia,MG,1,1,Low
+socorro,SP,19,18,Low
+solanea,PB,1,1,Low
+soledade,PB,3,3,Low
+soledade,RS,5,5,Low
+soledade de minas,MG,5,5,Low
+solonopole,CE,2,2,Low
+sombrio,SC,10,9,Low
+sonora,MS,2,2,Low
+sooretama,ES,5,5,Low
+sorocaba,SP,609,588,Low
+sorriso,MT,20,20,Low
+sousa,PB,7,7,Low
+sucesso,CE,3,3,Low
+sucupira do norte,MA,2,2,Low
+sud mennucci,SP,5,5,Low
+sulina,PR,1,1,Low
+sumare,SP,177,172,Low
+sume,PB,3,3,Low
+sumidouro,RJ,10,9,Low
+surubim,PE,5,5,Low
+suzanapolis,SP,1,1,Low
+suzano,SP,230,218,Low
+tabapora,MT,2,2,Low
+tabapua,SP,12,12,Low
+tabatinga,SP,5,5,Low
+tabira,PE,5,5,Low
+taboao da serra,SP,284,274,Low
+tabocas do brejo velho,BA,3,3,Low
+taboquinhas,BA,1,1,Low
+tabuleiro,MG,2,2,Low
+tabuleiro do norte,CE,1,1,Low
+tacaratu,PE,2,2,Low
+taciba,SP,2,2,Low
+tacuru,MS,1,1,Low
+taguai,SP,10,10,Low
+taguatinga,DF,4,3,Low
+taguatinga,TO,3,3,Low
+taiacu,SP,1,1,Low
+tailandia,PA,4,4,Low
+taio,SC,14,13,Low
+taiobeiras,MG,13,13,Low
+taiuva,SP,5,5,Low
+tamandare,PE,1,1,Low
+tamarana,PR,2,2,Low
+tambau,SP,19,18,Low
+tamboara,PR,1,1,Low
+tanabi,SP,11,11,Low
+tangara,SC,1,1,Low
+tangara da serra,MT,23,23,Low
+tangua,RJ,6,6,Low
+tanhacu,BA,4,4,Low
+tanque d'arca,AL,2,1,Low
+tanque novo,BA,3,3,Low
+taparuba,MG,1,1,Low
+tapejara,PR,2,2,Low
+tapejara,RS,9,9,Low
+tapera,RS,1,1,Low
+taperuaba,CE,1,1,Low
+tapes,RS,6,6,Low
+tapinas,SP,1,1,Low
+tapirai,SP,2,2,Low
+tapiramuta,BA,2,2,Low
+tapiratiba,SP,12,11,Low
+tapurah,MT,1,1,Low
+taquara,RS,21,21,Low
+taquaracu de minas,MG,2,2,Low
+taquarana,AL,1,1,Low
+taquari,RS,11,11,Low
+taquaritinga,SP,33,33,Low
+taquaritinga do norte,PE,6,5,Low
+taquarituba,SP,15,15,Low
+taquarivai,SP,3,3,Low
+taquarucu do sul,RS,1,1,Low
+tarabai,SP,5,5,Low
+taruma,SP,9,9,Low
+tarumirim,MG,4,4,Low
+tatui,SP,72,71,Low
+taua,CE,10,10,Low
+taubate,SP,260,257,Low
+tavares,RS,1,1,Low
+tecainda,SP,1,1,Low
+teixeira,PB,1,1,Low
+teixeira de freitas,BA,28,27,Low
+teixeira soares,PR,1,1,Low
+teixeiras,MG,6,6,Low
+tejupa,SP,3,2,Low
+telemaco borba,PR,34,32,Low
+telha,SE,1,1,Low
+tenente ananias,RN,1,1,Low
+tenente portela,RS,3,3,Low
+teodoro sampaio,BA,1,1,Low
+teodoro sampaio,SP,12,12,Low
+teofilandia,BA,3,3,Low
+teofilo otoni,MG,75,73,Low
+teolandia,BA,4,4,Low
+teotonio vilela,AL,7,7,Low
+terenos,MS,1,1,Low
+teresina,PI,271,261,Low
+teresina de goias,GO,1,1,Low
+teresopolis,RJ,119,114,Low
+terezinha,PE,1,1,Low
+termas de ibira,SP,1,1,Low
+terra boa,PR,4,4,Low
+terra de areia,RS,5,5,Low
+terra nova,PE,1,1,Low
+terra nova do norte,MT,3,3,Low
+terra rica,PR,7,7,Low
+terra roxa,PR,3,3,Low
+terra roxa,SP,2,2,Low
+teutonia,RS,14,12,Low
+tiangua,CE,9,9,Low
+tibagi,PR,4,4,Low
+tibau do sul,RN,1,1,Low
+tiete,SP,35,35,Low
+tijucas,SC,30,27,Low
+timbauba,PE,7,7,Low
+timbe do sul,SC,3,3,Low
+timbo,SC,20,17,Low
+timburi,SP,3,3,Low
+timon,MA,11,11,Low
+timoteo,MG,52,49,Low
+tiradentes,MG,4,4,Low
+tiradentes do sul,RS,1,1,Low
+tiros,MG,3,3,Low
+tobias barreto,SE,2,2,Low
+tocantinopolis,TO,7,7,Low
+tocantins,MG,6,6,Low
+tocos,RJ,2,2,Low
+tocos do moji,MG,1,1,Low
+toledo,PR,70,69,Low
+tomar do geru,SE,2,2,Low
+tomazina,PR,3,3,Low
+tombos,MG,4,4,Low
+tome-acu,PA,1,1,Low
+toritama,PE,5,5,Low
+toropi,RS,3,3,Low
+torres,RS,17,16,Low
+torrinha,SP,6,5,Low
+trabiju,SP,1,1,Low
+tracuateua,PA,1,1,Low
+tracunhaem,PE,1,1,Low
+traipu,AL,1,1,Low
+trairi,CE,2,2,Low
+trajano de moraes,RJ,8,8,Low
+tramandai,RS,25,25,Low
+trancoso,BA,6,6,Low
+travessao,RJ,4,4,Low
+travesseiro,RS,1,1,Low
+tremembe,SP,38,36,Low
+tres arroios,RS,3,3,Low
+tres barras,SC,5,5,Low
+tres cachoeiras,RS,7,6,Low
+tres coracoes,MG,41,40,Low
+tres coroas,RS,6,6,Low
+tres de maio,RS,12,12,Low
+tres forquilhas,RS,1,1,Low
+tres fronteiras,SP,5,5,Low
+tres irmaos,RJ,1,1,Low
+tres lagoas,MS,42,41,Low
+tres marias,MG,13,12,Low
+tres passos,RS,11,11,Low
+tres pontas,MG,19,19,Low
+tres rios,RJ,38,36,Low
+treviso,SC,1,1,Low
+treze tilias,SC,11,11,Low
+trindade,GO,24,24,Low
+trindade,PE,4,4,Low
+trindade do sul,RS,4,3,Low
+triunfo,PB,1,1,Low
+triunfo,PE,2,1,Low
+triunfo,RS,11,11,Low
+trombas,GO,1,1,Low
+trombudo central,SC,4,4,Low
+tubarao,SC,60,55,Low
+tucano,BA,8,8,Low
+tucuma,PA,3,3,Low
+tucunduva,RS,3,3,Low
+tucurui,PA,16,16,Low
+tuiuti,SP,1,1,Low
+tumiritinga,MG,1,1,Low
+tunapolis,SC,1,1,Low
+tunas do parana,PR,2,2,Low
+tupa,SP,52,52,Low
+tupaciguara,MG,13,13,Low
+tupancireta,RS,4,3,Low
+tupandi,RS,3,3,Low
+tuparece,MG,1,1,Low
+tuparendi,RS,2,2,Low
+tuparetama,PE,3,3,Low
+tupassi,PR,1,1,Low
+tupi paulista,SP,6,6,Low
+turmalina,MG,8,8,Low
+turmalina,SP,1,1,Low
+tururu,CE,1,1,Low
+turvania,GO,2,2,Low
+turvelandia,GO,1,1,Low
+turvo,PR,2,2,Low
+turvo,SC,4,4,Low
+turvolandia,MG,2,2,Low
+tutoia,MA,2,2,Low
+uaua,BA,3,3,Low
+uba,MG,53,51,Low
+ubai,MG,1,1,Low
+ubaira,BA,6,6,Low
+ubaitaba,BA,4,4,Low
+ubajara,CE,3,3,Low
+ubaporanga,MG,3,3,Low
+ubata,BA,1,1,Low
+ubatuba,SP,72,69,Low
+uberaba,MG,186,177,Low
+uberlandia,MG,367,360,Low
+ubirajara,SP,1,1,Low
+ubirata,PR,7,7,Low
+uchoa,SP,3,3,Low
+uibai,BA,4,4,Low
+uirauna,PB,1,1,Low
+ulianopolis,PA,1,1,Low
+umbauba,SE,3,3,Low
+umburanas,BA,1,1,Low
+umburatiba,MG,1,1,Low
+umuarama,PR,40,39,Low
+una,BA,4,4,Low
+unai,MG,54,53,Low
+uniao,PI,1,1,Low
+uniao da serra,RS,1,1,Low
+uniao da vitoria,PR,29,27,Low
+uniao de minas,MG,3,3,Low
+uniao do oeste,SC,1,1,Low
+uniao do sul,MT,1,1,Low
+uniao dos palmares,AL,1,1,Low
+unistalda,RS,1,1,Low
+upanema,RN,3,3,Low
+urai,PR,3,3,Low
+urandi,BA,2,2,Low
+urania,SP,4,3,Low
+urbano santos,MA,5,4,Low
+uruacu,GO,17,16,Low
+uruana,GO,3,3,Low
+uruana de minas,MG,1,1,Low
+uruara,PA,6,6,Low
+urubici,SC,3,3,Low
+uruburetama,CE,1,1,Low
+urucania,MG,1,1,Low
+urucuca,BA,2,2,Low
+urucui,PI,4,4,Low
+urucuia,MG,1,1,Low
+urucurituba,AM,2,2,Low
+uruguaiana,RS,47,47,Low
+uruoca,CE,2,2,Low
+urupa,RO,3,3,Low
+urupes,SP,10,10,Low
+urussanga,SC,10,10,Low
+urutai,GO,3,3,Low
+utinga,BA,3,3,Low
+vacaria,RS,21,20,Low
+valao do barro,RJ,1,1,Low
+vale do sol,RS,1,1,Low
+vale real,RS,3,3,Low
+valenca,BA,35,32,Low
+valenca,RJ,27,27,Low
+valenca do piaui,PI,4,4,Low
+valente,BA,9,6,Low
+valentim gentil,SP,3,3,Low
+valinhos,SP,181,176,Low
+valparaiso,SP,8,8,Low
+valparaiso de goias,GO,37,36,Low
+vanini,RS,1,1,Low
+vargeao,SC,1,1,Low
+vargem,SP,2,2,Low
+vargem alegre,MG,1,1,Low
+vargem alta,ES,5,5,Low
+vargem bonita,SC,5,5,Low
+vargem grande,MA,1,1,Low
+vargem grande do rio pardo,MG,1,1,Low
+vargem grande do soturno,ES,1,1,Low
+vargem grande do sul,SP,12,12,Low
+vargem grande paulista,SP,43,42,Low
+varginha,MG,88,83,Low
+varjao de minas,MG,2,2,Low
+varjota,CE,4,4,Low
+varre-sai,RJ,4,4,Low
+varzea,PB,1,1,Low
+varzea alegre,CE,2,2,Low
+varzea da palma,MG,11,11,Low
+varzea do poco,BA,1,1,Low
+varzea grande,MT,37,36,Low
+varzea grande,PI,1,1,Low
+varzea nova,BA,1,1,Low
+varzea paulista,SP,74,69,Low
+varzedo,BA,1,1,Low
+varzelandia,MG,2,2,Low
+vassouras,RJ,36,34,Low
+vazante,MG,6,5,Low
+venancio aires,RS,26,24,Low
+venda branca,SP,1,1,Low
+venda nova do imigrante,ES,15,15,Low
+ventania,PR,3,3,Low
+venturosa,PE,2,2,Low
+vera,MT,3,3,Low
+vera cruz,BA,7,7,Low
+vera cruz,RN,1,1,Low
+vera cruz,RS,4,3,Low
+vera cruz,SP,9,9,Low
+vera cruz do oeste,PR,3,3,Low
+veranopolis,RS,18,18,Low
+vere,PR,3,3,Low
+vereda,BA,2,2,Low
+verissimo,MG,3,3,Low
+vermelho,MG,1,1,Low
+vermelho novo,MG,1,1,Low
+vertentes,PE,1,1,Low
+vespasiano,MG,41,40,Low
+vespasiano correa,RS,1,1,Low
+viamao,RS,70,68,Low
+viana,ES,21,21,Low
+viana,MA,5,5,Low
+vianopolis,GO,3,3,Low
+vicencia,PE,2,2,Low
+vicente dutra,RS,1,1,Low
+vicentina,MS,1,1,Low
+vicentinopolis,GO,2,2,Low
+vicosa,AL,1,1,Low
+vicosa,MG,87,85,Low
+vicosa,RN,1,1,Low
+vicosa do ceara,CE,1,1,Low
+victor graeff,RS,2,2,Low
+videira,SC,44,44,Low
+vieiras,MG,1,1,Low
+vigia,PA,2,2,Low
+vila bela da santissima trindade,MT,1,1,Low
+vila dos cabanos,PA,4,4,Low
+vila flor,RN,1,1,Low
+vila flores,RS,3,3,Low
+vila langaro,RS,3,3,Low
+vila muriqui,RJ,7,7,Low
+vila nelita,ES,2,2,Low
+vila nova,PR,2,2,Low
+vila nova do sul,RS,1,1,Low
+vila pereira,MG,1,1,Low
+vila reis,PR,1,1,Low
+vila rica,MT,3,3,Low
+vila valerio,ES,8,7,Low
+vila velha,ES,326,317,Low
+vilhena,RO,16,16,Low
+vinhedo,SP,90,89,Low
+viradouro,SP,18,18,Low
+virgem da lapa,MG,3,3,Low
+virginia,MG,1,1,Low
+virginopolis,MG,7,6,Low
+virgolandia,MG,2,2,Low
+visconde de maua,RJ,3,2,Low
+visconde do rio branco,MG,18,17,Low
+viseu,PA,1,1,Low
+vista alegre,RS,1,1,Low
+vista alegre do alto,SP,3,3,Low
+vitoria,ES,373,360,Low
+vitoria,PR,1,1,Low
+vitoria da conquista,BA,88,87,Low
+vitoria das missoes,RS,1,1,Low
+vitoria de santo antao,PE,15,15,Low
+vitoria do jari,AP,1,1,Low
+vitoria do mearim,MA,1,1,Low
+vitorino,PR,1,1,Low
+vitorino freire,MA,3,3,Low
+vitorinos,MG,1,1,Low
+volta grande,MG,4,4,Low
+volta redonda,RJ,227,221,Low
+votorantim,SP,84,83,Low
+votuporanga,SP,63,61,Low
+wagner,BA,1,1,Low
+wanderley,BA,2,2,Low
+wenceslau braz,PR,2,2,Low
+wenceslau guimaraes,BA,1,1,Low
+werneck,RJ,2,2,Low
+witmarsum,SC,3,3,Low
+xambioa,TO,3,3,Low
+xambre,PR,2,1,Low
+xangri-la,RS,8,7,Low
+xanxere,SC,29,28,Low
+xapuri,AC,2,2,Low
+xavantina,SC,2,2,Low
+xaxim,SC,10,9,Low
+xexeu,PE,1,1,Low
+xinguara,PA,9,9,Low
+xique-xique,BA,3,3,Low
+zacarias,SP,2,2,Low
+ze doca,MA,5,5,Low
+zortea,SC,2,2,Low
