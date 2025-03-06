@@ -33,6 +33,11 @@ monthly_sales_filtered = monthly_sales[(monthly_sales['year_month'] >= start_per
 new_customers_filtered = new_customers_trend[(new_customers_trend['year_month'] >= start_period) & 
                                              (new_customers_trend['year_month'] <= end_period)]
 
+# Overview
+col1, col2 = st.columns(2)
+col1.metric("Total Orders", f"{monthly_sales['total_orders'].sum():,}")
+col2.metric("Total Revenue (BRL)", f"R${monthly_sales['total_revenue'].sum():,.2f}")
+
 # Layout
 tab1, tab2, tab3 = st.tabs(["📈 Sales Performance", "📦 Product Insights", "📍 Customer Insights"])
 
